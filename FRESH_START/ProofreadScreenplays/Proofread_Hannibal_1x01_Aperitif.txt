@@ -1,0 +1,138 @@
+Proofreading Output for Hannibal_1x01_Aperitif.txt
+
+=== Chunk 1 Output ===
+## Proofreading Report: Hannibal_1x01_Aperitif.txt (Chunk 1)
+
+Here's a breakdown of the errors found in the provided screenplay segment, along with corrections:
+
+**1. Episode:** Hannibal_1x01_Aperitif.txt
+   **Scene:** TEASER
+   **Line:** 66
+   **Error:** Formatting/Typo - The line "HANNIBAL - PROD. #101 - DBL GREEN Collated 6/26/13 2." appears to be production notes awkwardly placed within the screenplay. The "2." is extraneous and disrupts the flow.
+   **Corrected Text:** HANNIBAL - PROD. #101 - DBL GREEN Collated 6/26/13
+
+**2. Episode:** Hannibal_1x01_Aperitif.txt
+   **Scene:** 1 INT. HOME - LIVING ROOM - NIGHT
+   **Line:** 20
+   **Error:** Formatting - The scene heading is missing a period after the scene number.
+   **Corrected Text:** === 1 INT. HOME - LIVING ROOM - NIGHT. ===
+
+**3. Episode:** Hannibal_1x01_Aperitif.txt
+   **Scene:** 1 INT. HOME - LIVING ROOM - NIGHT
+   **Line:** 26
+   **Error:** Formatting/Capitalization - "Coroners" should be consistently capitalized as it's a specific job title used repeatedly.
+   **Corrected Text:** A team of CORONERS remove TWO BODIES -- THERESA and THOMAS MARLOW, both 30s/40s.
+
+**4. Episode:** Hannibal_1x01_Aperitif.txt
+   **Scene:** 1 INT. HOME - LIVING ROOM - NIGHT
+   **Line:** 30
+   **Error:** Capitalization - "Police Officer" and "Suited Detective" should be consistently capitalized as they are character descriptions.
+   **Corrected Text:** A POLICE OFFICER and SUITED DETECTIVE herd the Crime-Scene Photographer and the remaining team of Coroners out the door.
+
+**5. Episode:** Hannibal_1x01_Aperitif.txt
+   **Scene:** 1 INT. HOME - LIVING ROOM - NIGHT
+   **Line:** 37
+   **Error:** Typo - "heart beat" should be "heartbeat"
+   **Corrected Text:** It swings in the darkness of Will Graham’s mind, keeping rhythm with his heartbeat. FWUM. FWUM. FWUM.
+
+**6. Episode:** Hannibal_1x01_Aperitif.txt
+   **Scene:** 1 INT. HOME - LIVING ROOM - NIGHT
+   **Line:** 42
+   **Error:** Typo - "wiping away in its wake" is awkward phrasing.
+   **Corrected Text:** It swings behind Will, wiping away in its wake the gush of
+
+**7. Episode:** Hannibal_1x01_Aperitif.txt
+   **Scene:** 1 INT. HOME - LIVING ROOM - NIGHT
+   **Line:** 47
+   **Error:** Capitalization - "Security Key" should be consistently capitalized as it's a specific object.
+   **Corrected Text:** The PENDULUM swings across the stained SECURITY KEY PAD and the rust-colored dried drops vanish. FWUM.
+
+**8. Episode:** Hannibal_1x01_Aperitif.txt
+   **Scene:** 1 INT. HOME - LIVING ROOM - NIGHT
+   **Line:** 50
+   **Error:** Capitalization - "Time" should not be capitalized.
+   **Corrected Text:** (NOTE: The PENDULUM is a stylistic device, our REVERSE METRONOME rewinding Will to a time before the murders.)
+
+**9. Episode:** Hannibal_1x01_Aperitif.txt
+   **Scene:** 1 INT. HOME - LIVING ROOM - NIGHT
+   **Line:** 57
+   **Error:** Grammar - "back-stepping" is not a standard word.
+   **Corrected Text:** opening it behind him, stepping backwards outside before closing it again.
+
+
+
+---
+
+## Validated and Corrected Screenplay Segment:
+
+1:                                                                                     
+2:                                                                                     
+3:                                                                                     
+4:                                                                                     
+5:                                                                                     
+6:                                                                                     
+7:                                       HANNIBAL                                      
+8:                                      “Apéritif”                                     
+9:                                                                                     
+10:                                        TEASER                                       
+11:                                                                                     
+12:                CLOSE ON - WILL GRAHAM                                               
+13:                                                                                     
+14:                A handsome, haunted man with a naive focus. REFLECTIVE LIGHT         
+15:                flashes across his face, lighting up his eyes. All SOUND IS          
+16:                DULLED as if his ears were blocked, the AMBIENT NOISE of             
+17:                Will’s circulatory system provides an organic hum. He stares         
+18:                into middle-distance as CAMERA PULLS BACK TO REVEAL we are --        
+19: 
+20: === 1 INT. HOME - LIVING ROOM - NIGHT. ===
+21: 
+22:                                                                                     
+23:                Arterial spray splashes a wall near a blood-soaked carpet.           
+24:                Through the windows we see DOZENS OF OFFICERS and as many            
+25:                POLICE CARS. A CRIME-SCENE PHOTOGRAPHER takes pictures. A            
+26:                team of CORONERS remove TWO BODIES -- THERESA and THOMAS             
+27:                MARLOW, both 30s/40s. A tableau of horrible violence.                
+28:                                                                                     
+29:                Will Graham sits serenely amongst the carnage on a yoga mat.         
+30:                A POLICE OFFICER and SUITED DETECTIVE herd the Crime-Scene           
+31:                Photographer and the remaining team of CORONERS out the door.        
+32:                                                                                     
+33:                Will Graham takes a breath, exhales, then closes his eyes.           
+34:                A PENDULUM                                                           
+35:                                                                                     
+36:                It swings in the darkness of Will Graham’s mind, keeping             
+37:                rhythm with his heartbeat. FWUM.  FWUM. FWUM.                       
+38:                                                                                     
+39:                ON WILL GRAHAM                                                       
+40:                                                                                     
+41:                His eyes are closed. The PENDULUM is now outside his head.           
+42:                It swings behind Will, wiping away in its wake the gush of           
+43:                arterial spray from the wall. FWUM.  The PENDULUM swings on          
+44:                the other side of the window, wiping away the OFFICERS and           
+45:                POLICE CARS in front of the house. FWUM. The PENDULUM                
+46:                swings across the stained carpet lifting the blood. FWUM.            
+47:                The PENDULUM swings across the stained SECURITY KEY PAD and the rust-colored dried drops vanish. FWUM.                   
+48:                (NOTE: The PENDULUM is a stylistic device, our REVERSE               
+49:                METRONOME rewinding Will to a time before the murders.)              
+50:                                                                                     
+51:                The crime scene has now been decriminalized in Will’s mind.          
+52:                                                                                     
+53:                Will Graham opens his eyes and stands, turns and walks               
+54:                BACKWARDS toward the front door (which shows signs of a              
+55:                violent forced entry), opening it behind him, stepping backwards          
+56:                outside before closing it again. CAMERA REVEALS THE DOOR IS          
+57:                NOW PRISTINE, PRE-FORCED ENTRY.                                      
+58:                                                                                     
+59:                                                                                     
+60:                                                                                     
+61:                                                                                     
+62:                                                                                     
+63:                                                                                     
+64:                                                                                     
+65:                                                                                     
+66:                  HANNIBAL - PROD. #101 - DBL GREEN Collated 6/26/13     
+67:                                                                                     
+68:                                                                                     
+69: 
+70:
+
