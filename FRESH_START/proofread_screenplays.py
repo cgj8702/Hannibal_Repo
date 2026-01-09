@@ -6,12 +6,6 @@ from google import genai
 from google.genai import types
 import tqdm
 
-def add_line_numbers(text, start_line=1):
-    """Adds line numbers to the text for easier reference."""
-    lines = text.split('\n')
-    numbered_lines = [f"{start_line+i}: {line}" for i, line in enumerate(lines)]
-    return '\n'.join(numbered_lines), start_line + len(lines)
-
 def split_into_chunks(text, max_chars=7000):
     """Splits the text into chunks respecting max chars.
     Using 7000 chars (approx 1750 tokens) to stay well within 15k TPM limit when combined with delays.
@@ -43,13 +37,13 @@ def proofread_chunk(client, text, filename, chunk_index, retries=5):
         "You are a professional proofreader. Proofread the following screenplay text segment, "
         "identifying typos, formatting inconsistencies, or logical errors. "
         "For each error you find:\n"
-        "1. Cite the Episode (from filename), Scene (from headers), and Line Number.\n"
+        "1. Cite the Episode (from filename) and Scene (from the scene headers).\n"
         "2. Explain the error.\n"
         "3. Provide the corrected text for that section.\n\n"
         "After listing the errors, provide the full validated and corrected version of the text segment. "
         "Do not leave out any part of the original text in your corrected version.\n\n"
         f"Filename: {filename} (Chunk {chunk_index})\n\n"
-        "Screenplay Content (with line numbers):\n"
+        "Screenplay Content:\n"
         f"{text}"
     )
 
@@ -117,9 +111,9 @@ def main():
         with open(file_path, 'r', encoding='utf-8') as f:
             content = f.read()
 
-        numbered_content, _ = add_line_numbers(content)
+        # No line numbers added
         
-        chunks = split_into_chunks(numbered_content, max_chars=7000)
+        chunks = split_into_chunks(content, max_chars=7000)
         
         print(f"\nProcessing {filename} in {len(chunks)} chunks...")
         
@@ -134,9 +128,6 @@ def main():
             print(f"Finished Chunk {i+1}/{len(chunks)}")
             
             # 25s delay to handle 15k token/min limit
-            # 7k chars ~ 1750 tokens input + output overhead
-            # 15000 / (1750*2) approx 4 chunks/min -> 15s delay strict minimum.
-            # Using 25s to be extremely safe against quota blocks.
             time.sleep(25) 
 
     print("Proofreading complete. Check the 'ProofreadScreenplays' directory.")

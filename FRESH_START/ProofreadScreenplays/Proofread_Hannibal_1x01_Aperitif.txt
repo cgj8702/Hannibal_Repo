@@ -3,136 +3,343 @@ Proofreading Output for Hannibal_1x01_Aperitif.txt
 === Chunk 1 Output ===
 ## Proofreading Report: Hannibal_1x01_Aperitif.txt (Chunk 1)
 
-Here's a breakdown of the errors found in the provided screenplay segment, along with corrections:
+Here's a breakdown of the errors found in the provided screenplay segment:
 
 **1. Episode:** Hannibal_1x01_Aperitif.txt
    **Scene:** TEASER
-   **Line:** 66
-   **Error:** Formatting/Typo - The line "HANNIBAL - PROD. #101 - DBL GREEN Collated 6/26/13 2." appears to be production notes awkwardly placed within the screenplay. The "2." is extraneous and disrupts the flow.
-   **Corrected Text:** HANNIBAL - PROD. #101 - DBL GREEN Collated 6/26/13
+   **Error:** Inconsistent capitalization of "SOUND IS DULLED". Screenwriting convention dictates all caps for sound cues.
+   **Correction:** SOUND IS DULLED
 
 **2. Episode:** Hannibal_1x01_Aperitif.txt
    **Scene:** 1 INT. HOME - LIVING ROOM - NIGHT
-   **Line:** 20
-   **Error:** Formatting - The scene heading is missing a period after the scene number.
-   **Corrected Text:** === 1 INT. HOME - LIVING ROOM - NIGHT. ===
+   **Error:** "DOZENS OF OFFICERS" and "POLICE CARS" should be capitalized as they are specific elements within the scene description.
+   **Correction:** DOZENS OF OFFICERS and as many POLICE CARS
 
 **3. Episode:** Hannibal_1x01_Aperitif.txt
    **Scene:** 1 INT. HOME - LIVING ROOM - NIGHT
-   **Line:** 26
-   **Error:** Formatting/Capitalization - "Coroners" should be consistently capitalized as it's a specific job title used repeatedly.
-   **Corrected Text:** A team of CORONERS remove TWO BODIES -- THERESA and THOMAS MARLOW, both 30s/40s.
+   **Error:** "CORONERS" should be capitalized as they are specific elements within the scene description.
+   **Correction:** CORONERS
 
 **4. Episode:** Hannibal_1x01_Aperitif.txt
    **Scene:** 1 INT. HOME - LIVING ROOM - NIGHT
-   **Line:** 30
-   **Error:** Capitalization - "Police Officer" and "Suited Detective" should be consistently capitalized as they are character descriptions.
-   **Corrected Text:** A POLICE OFFICER and SUITED DETECTIVE herd the Crime-Scene Photographer and the remaining team of Coroners out the door.
+   **Error:** "POLICE OFFICER" and "SUITED DETECTIVE" should be capitalized as they are specific elements within the scene description.
+   **Correction:** POLICE OFFICER and SUITED DETECTIVE
 
 **5. Episode:** Hannibal_1x01_Aperitif.txt
-   **Scene:** 1 INT. HOME - LIVING ROOM - NIGHT
-   **Line:** 37
-   **Error:** Typo - "heart beat" should be "heartbeat"
-   **Corrected Text:** It swings in the darkness of Will Graham’s mind, keeping rhythm with his heartbeat. FWUM. FWUM. FWUM.
+   **Scene:** Throughout Pendulum Sequence
+   **Error:** Inconsistent formatting of sound effects ("FWUM."). Screenwriting convention dictates all caps.
+   **Correction:** FWUM.
 
 **6. Episode:** Hannibal_1x01_Aperitif.txt
-   **Scene:** 1 INT. HOME - LIVING ROOM - NIGHT
-   **Line:** 42
-   **Error:** Typo - "wiping away in its wake" is awkward phrasing.
-   **Corrected Text:** It swings behind Will, wiping away in its wake the gush of
+   **Scene:** Throughout Pendulum Sequence
+   **Error:** "OFFICERS" and "POLICE CARS" should be capitalized as they are specific elements within the scene description.
+   **Correction:** OFFICERS and POLICE CARS
 
 **7. Episode:** Hannibal_1x01_Aperitif.txt
    **Scene:** 1 INT. HOME - LIVING ROOM - NIGHT
-   **Line:** 47
-   **Error:** Capitalization - "Security Key" should be consistently capitalized as it's a specific object.
-   **Corrected Text:** The PENDULUM swings across the stained SECURITY KEY PAD and the rust-colored dried drops vanish. FWUM.
+   **Error:** "SECURITY KEY PAD" should be capitalized as it is a specific element within the scene description.
+   **Correction:** SECURITY KEY PAD
 
 **8. Episode:** Hannibal_1x01_Aperitif.txt
    **Scene:** 1 INT. HOME - LIVING ROOM - NIGHT
-   **Line:** 50
-   **Error:** Capitalization - "Time" should not be capitalized.
-   **Corrected Text:** (NOTE: The PENDULUM is a stylistic device, our REVERSE METRONOME rewinding Will to a time before the murders.)
+   **Error:** "decriminalized" is not the correct word. The scene is being *undone* or *reset*.
+   **Correction:** undone
 
 **9. Episode:** Hannibal_1x01_Aperitif.txt
    **Scene:** 1 INT. HOME - LIVING ROOM - NIGHT
-   **Line:** 57
-   **Error:** Grammar - "back-stepping" is not a standard word.
-   **Corrected Text:** opening it behind him, stepping backwards outside before closing it again.
-
-
+   **Error:** The final line "HANNIBAL - PROD. #101 - DBL GREEN Collated 6/26/13 2." is extraneous and doesn't belong in the screenplay itself. It appears to be production notes.
+   **Correction:** Remove the line entirely.
 
 ---
 
 ## Validated and Corrected Screenplay Segment:
 
-1:                                                                                     
-2:                                                                                     
-3:                                                                                     
-4:                                                                                     
-5:                                                                                     
-6:                                                                                     
-7:                                       HANNIBAL                                      
-8:                                      “Apéritif”                                     
-9:                                                                                     
-10:                                        TEASER                                       
-11:                                                                                     
-12:                CLOSE ON - WILL GRAHAM                                               
-13:                                                                                     
-14:                A handsome, haunted man with a naive focus. REFLECTIVE LIGHT         
-15:                flashes across his face, lighting up his eyes. All SOUND IS          
-16:                DULLED as if his ears were blocked, the AMBIENT NOISE of             
-17:                Will’s circulatory system provides an organic hum. He stares         
-18:                into middle-distance as CAMERA PULLS BACK TO REVEAL we are --        
-19: 
-20: === 1 INT. HOME - LIVING ROOM - NIGHT. ===
-21: 
-22:                                                                                     
-23:                Arterial spray splashes a wall near a blood-soaked carpet.           
-24:                Through the windows we see DOZENS OF OFFICERS and as many            
-25:                POLICE CARS. A CRIME-SCENE PHOTOGRAPHER takes pictures. A            
-26:                team of CORONERS remove TWO BODIES -- THERESA and THOMAS             
-27:                MARLOW, both 30s/40s. A tableau of horrible violence.                
-28:                                                                                     
-29:                Will Graham sits serenely amongst the carnage on a yoga mat.         
-30:                A POLICE OFFICER and SUITED DETECTIVE herd the Crime-Scene           
-31:                Photographer and the remaining team of CORONERS out the door.        
-32:                                                                                     
-33:                Will Graham takes a breath, exhales, then closes his eyes.           
-34:                A PENDULUM                                                           
-35:                                                                                     
-36:                It swings in the darkness of Will Graham’s mind, keeping             
-37:                rhythm with his heartbeat. FWUM.  FWUM. FWUM.                       
-38:                                                                                     
-39:                ON WILL GRAHAM                                                       
-40:                                                                                     
-41:                His eyes are closed. The PENDULUM is now outside his head.           
-42:                It swings behind Will, wiping away in its wake the gush of           
-43:                arterial spray from the wall. FWUM.  The PENDULUM swings on          
-44:                the other side of the window, wiping away the OFFICERS and           
-45:                POLICE CARS in front of the house. FWUM. The PENDULUM                
-46:                swings across the stained carpet lifting the blood. FWUM.            
-47:                The PENDULUM swings across the stained SECURITY KEY PAD and the rust-colored dried drops vanish. FWUM.                   
-48:                (NOTE: The PENDULUM is a stylistic device, our REVERSE               
-49:                METRONOME rewinding Will to a time before the murders.)              
-50:                                                                                     
-51:                The crime scene has now been decriminalized in Will’s mind.          
-52:                                                                                     
-53:                Will Graham opens his eyes and stands, turns and walks               
-54:                BACKWARDS toward the front door (which shows signs of a              
-55:                violent forced entry), opening it behind him, stepping backwards          
-56:                outside before closing it again. CAMERA REVEALS THE DOOR IS          
-57:                NOW PRISTINE, PRE-FORCED ENTRY.                                      
-58:                                                                                     
-59:                                                                                     
-60:                                                                                     
-61:                                                                                     
-62:                                                                                     
-63:                                                                                     
-64:                                                                                     
-65:                                                                                     
-66:                  HANNIBAL - PROD. #101 - DBL GREEN Collated 6/26/13     
-67:                                                                                     
-68:                                                                                     
-69: 
-70:
+```
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                      HANNIBAL                                      
+                                     “Apéritif”                                     
+                                                                                    
+                                       TEASER                                       
+                                                                                    
+               CLOSE ON - WILL GRAHAM                                               
+                                                                                    
+               A handsome, haunted man with a naive focus. REFLECTIVE LIGHT         
+               flashes across his face, lighting up his eyes. All SOUND IS          
+               DULLED as if his ears were blocked, the AMBIENT NOISE of             
+               Will’s circulatory system provides an organic hum. He stares         
+               into middle-distance as CAMERA PULLS BACK TO REVEAL we are --        
+
+=== 1 INT. HOME - LIVING ROOM - NIGHT                             1 ===
+
+                                                                                    
+               Arterial spray splashes a wall near a blood-soaked carpet.           
+               Through the windows we see DOZENS OF OFFICERS and as many            
+               POLICE CARS. A CRIME-SCENE PHOTOGRAPHER takes pictures. A            
+               team of CORONERS remove TWO BODIES -- THERESA and THOMAS             
+               MARLOW, both 30s/40s. A tableau of horrible violence.                
+                                                                                    
+               Will Graham sits serenely amongst the carnage on a yoga mat.         
+               A POLICE OFFICER and SUITED DETECTIVE herd the Crime-Scene           
+               Photographer and the remaining team of Coroners out the door.        
+                                                                                    
+               Will Graham takes a breath, exhales, then closes his eyes.           
+               A PENDULUM                                                           
+                                                                                    
+               It swings in the darkness of Will Graham’s mind, keeping             
+               rhythm with his heart beat. FWUM.  FWUM. FWUM.                       
+                                                                                    
+               ON WILL GRAHAM                                                       
+                                                                                    
+               His eyes are closed. The PENDULUM is now outside his head.           
+               It swings behind Will, wiping away in its wake the gush of           
+               arterial spray from the wall. FWUM.  The PENDULUM swings on          
+               the other side of the window, wiping away the OFFICERS and           
+               POLICE CARS in front of the house. FWUM. The PENDULUM                
+               swings across the stained carpet lifting the blood. FWUM.            
+               The PENDULUM swings across the blood spattered SECURITY KEY          
+               PAD and the rust-colored dried drops vanish. FWUM.                   
+               (NOTE: The PENDULUM is a stylistic device, our REVERSE               
+               METRONOME rewinding Will to a TIME BEFORE THE MURDERS.)              
+                                                                                    
+               The crime scene has now been undone in Will’s mind.          
+                                                                                    
+               Will Graham opens his eyes and stands, turns and walks               
+               BACKWARDS toward the front door (which shows signs of a              
+               violent forced entry), opening it behind him, back-stepping          
+               outside before closing it again. CAMERA REVEALS THE DOOR IS          
+               NOW PRISTINE, PRE-FORCED ENTRY.                                      
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+```
+
+
+=== Chunk 2 Output ===
+## Proofreading Report: Hannibal_1x01_Aperitif.txt (Chunk 2)
+
+Here's a breakdown of the errors found in the provided screenplay segment, along with corrections:
+
+**1. Episode:** Hannibal_1x01_Aperitif
+   **Scene:** 2 EXT. HOME - NIGHT - CONTINUOUS - WILL’S P.O.V.
+   **Error:** Formatting inconsistency - "POP WIDE - OMNISCIENT P.O.V." is not standard screenplay formatting. It reads more like a director's note.
+   **Correction:**  Remove the line. The visual information is conveyed through the action lines.
+
+**2. Episode:** Hannibal_1x01_Aperitif
+   **Scene:** 2 EXT. HOME - NIGHT - CONTINUOUS - WILL’S P.O.V.
+   **Error:** Spelling - "Crime-Scene Specialists" should be "Crime Scene Specialists" (no hyphen).
+   **Correction:** The Police Officers, Detectives, Coroners and Crime Scene Specialists all part or stand by, averting their eyes as they intentionally avoid looking at Will Graham backwards walking through them toward the shadowy yard across the street.
+
+**3. Episode:** Hannibal_1x01_Aperitif
+   **Scene:** 2 EXT. HOME - NIGHT - CONTINUOUS - WILL’S P.O.V.
+   **Error:** Grammar/Word Choice - "fixes his gaze on the ground in front of his feet" is slightly awkward.
+   **Correction:** quickly looks down at the ground.
+
+**4. Episode:** Hannibal_1x01_Aperitif
+   **Scene:** 2 EXT. HOME - NIGHT - CONTINUOUS - WILL’S P.O.V.
+   **Error:** Formatting - "ON WILL - WILL’S P.O.V." is redundant.  The scene header already establishes the POV.
+   **Correction:** Remove "ON WILL - WILL’S P.O.V."
+
+**5. Episode:** Hannibal_1x01_Aperitif
+   **Scene:** 2 EXT. HOME - NIGHT - CONTINUOUS - WILL’S P.O.V.
+   **Error:** Spelling - "PENDULUM" should be lowercase. It's a descriptive element, not a proper noun.
+   **Correction:** the pendulum stops swinging, snapping into place as Will snaps into focus.
+
+**6. Episode:** Hannibal_1x01_Aperitif
+   **Scene:** 2 EXT. HOME - NIGHT - CONTINUOUS - WILL’S P.O.V.
+   **Error:** Parenthetical phrasing - "(still living)" is unnecessary and breaks the flow.
+   **Correction:** Through the partially curtained windows, he can see the silhouettes of Theresa and Thomas Marlow.
+
+**7. Episode:** Hannibal_1x01_Aperitif
+   **Scene:** 2 EXT. HOME - NIGHT - CONTINUOUS - WILL’S P.O.V.
+   **Error:** Formatting - "OVERHEAD SHOT- OMNISCIENT P.O.V." is a director's note and not standard screenplay formatting.
+   **Correction:** Remove the line.
+
+**8. Episode:** Hannibal_1x01_Aperitif
+   **Scene:** 2 EXT. HOME - NIGHT - CONTINUOUS - WILL’S P.O.V.
+   **Error:** Formatting - "ON WILL - WILL’S P.O.V." is redundant.
+   **Correction:** Remove "ON WILL - WILL’S P.O.V."
+
+**9. Episode:** Hannibal_1x01_Aperitif
+   **Scene:** 2 EXT. HOME - NIGHT - CONTINUOUS - WILL’S P.O.V.
+   **Error:** Spelling - "TOWEL-WRAPPED" should be "towel-wrapped" (lowercase).
+   **Correction:** Will raises a towel-wrapped arm.
+
+**10. Episode:** Hannibal_1x01_Aperitif
+   **Scene:** 2 EXT. HOME - NIGHT - CONTINUOUS - WILL’S P.O.V.
+   **Error:** Formatting - "FIRED SHOTS, ENTRY WOUNDS, EXIT WOUNDS, and PLUMES OF TERRYCLOTH DEBRIS are all QUICK CUT SLOW MOTION." is a direction and should be broken into separate action lines.
+   **Correction:**
+   Will SHOOTS HIM TWICE THROUGH THE NECK.
+   The shots are quick cuts in slow motion, showing entry and exit wounds, and plumes of terrycloth debris.
+
+**11. Episode:** Hannibal_1x01_Aperitif
+   **Scene:** 2 EXT. HOME - NIGHT - CONTINUOUS - WILL’S P.O.V.
+   **Error:** Spelling - "cartoids" should be "carotids".
+   **Correction:** severing jugulars and carotids with near surgical precision.
+
+**12. Episode:** Hannibal_1x01_Aperitif
+   **Scene:** 2 EXT. HOME - NIGHT - CONTINUOUS - WILL’S P.O.V.
+   **Error:** Grammar - "This is my design." is repetitive and feels unnatural in dialogue.
+   **Correction:** This is what I do.
+
+**13. Episode:** Hannibal_1x01_Aperitif
+   **Scene:** 2 EXT. HOME - NIGHT - CONTINUOUS - WILL’S P.O.V.
+   **Error:** Spelling - "KEY BAD" should be "KEYPAD".
+   **Correction:** HOME SECURITY KEYPAD
+
+**14. Episode:** Hannibal_1x01_Aperitif
+   **Scene:** 2 EXT. HOME - NIGHT - CONTINUOUS - WILL’S P.O.V.
+   **Error:** Formatting - The multiple blank lines are unnecessary.
+   **Correction:** Remove the extra blank lines.
+
+**15. Episode:** Hannibal_1x01_Aperitif
+   **Scene:** 2 EXT. HOME - NIGHT - CONTINUOUS - WILL’S P.O.V.
+   **Error:** Formatting - "HANNIBAL - PROD. #101 - DBL GREEN Collated 6/26/13 3." is extraneous information and should not be in the screenplay.
+   **Correction:** Remove the line.
+
+**16. Episode:** Hannibal_1x01_Aperitif
+   **Scene:** 2 EXT. HOME - NIGHT - CONTINUOUS - WILL’S P.O.V.
+   **Error:** Grammar - "This is not a fatal wound." is awkward phrasing.
+   **Correction:** It’s not a fatal wound.
+
+**17. Episode:** Hannibal_1x01_Aperitif
+   **Scene:** 2 EXT. HOME - NIGHT - CONTINUOUS - WILL’S P.O.V.
+   **Error:** Grammar - "Which doesn’t mean she can’t feel pain." is conversational and doesn't fit the tone.
+   **Correction:** But she can still feel it.
+
+**18. Episode:** Hannibal_1x01_Aperitif
+   **Scene:** 2 EXT. HOME - NIGHT - CONTINUOUS - WILL’S P.O.V.
+   **Error:** Grammar - "It just means she can’t do anything about it." is conversational and doesn't fit the tone.
+   **Correction:** She’s helpless.
+
+**19. Episode:** Hannibal_1x01_Aperitif
+   **Scene:** 2 EXT. HOME - NIGHT - CONTINUOUS - WILL’S P.O.V.
+   **Error:** Grammar - "This is my design." is repetitive and feels unnatural in dialogue.
+   **Correction:** This is what I do.
+
+**20. Episode:** Hannibal_1x01_Aperitif
+   **Scene:** 2 EXT. HOME - NIGHT - CONTINUOUS - WILL’S P.O.V.
+   **Error:** Spelling - "ALARM CODE" should be "alarm code" (lowercase).
+   **Correction:** alarm code
+
+**21. Episode:** Hannibal_1x01_Aperitif
+   **Scene:** 2 EXT. HOME - NIGHT - CONTINUOUS - WILL’S P.O.V.
+   **Error:** Grammar - "BLARING HOME SECURITY ALARM is mercifully silenced." is passive voice.
+   **Correction:** The blaring home security alarm falls silent.
+
+**22. Episode:** Hannibal_1x01_Aperitif
+   **Scene:** 2 EXT. HOME - NIGHT - CONTINUOUS - WILL’S P.O.V.
+   **Error:** Grammar - "VOICE ON TELEPHONE" is unnecessary.
+   **Correction:** Remove "VOICE ON TELEPHONE"
+
+**23. Episode:** Hannibal_1x01_Aperitif
+   **Scene:** 2 EXT. HOME - NIGHT - CONTINUOUS - WILL’S P.O.V.
+   **Error:** Grammar - "Who am I speaking with?" is overly formal.
+   **Correction:** Who is this?
+
+**24. Episode:** Hannibal_1x01_Aperitif
+   **Scene:** 2 EXT. HOME - NIGHT - CONTINUOUS - WILL’S P.O.V.
+   **Error:** Grammar - "breaking character as he asks:" is awkward phrasing.
+   **Correction:** He hangs up, then asks:
+
+**25. Episode:** Hannibal_1x01_Aperitif
+   **Scene:** 2 EXT. HOME - NIGHT - CONTINUOUS - WILL’S P.O.V.
+   **Error:** Formatting - "CAMERA REVEALS Will is now holding the Incident Report." is a direction and should be an action line.
+   **Correction:** Will is now holding the Incident Report.
+
+## Validated and Corrected Text Segment:
+
+=== 2 EXT. HOME - NIGHT - CONTINUOUS - WILL’S P.O.V.              2 ===
+
+               Will walks backward out the front door, across the lawn, over        
+               the sidewalk. He is alone in the neighborhood in his P.O.V.          
+                                                                                    
+               POP WIDE - OMNISCIENT P.O.V.                                         
+                                                                                    
+               The Police Officers, Detectives, Coroners and Crime Scene            
+               Specialists all part or stand by, averting their eyes as they        
+               intentionally avoid looking at Will Graham backwards walking         
+               through them toward the shadowy yard across the street.              
+                                                                                    
+               A Police Officer breaks protocol and sneaks a peek at Will.          
+               A SUPERIOR OFFICER snaps and points at the Officer, who              
+               quickly looks down at the ground.           
+               ON WILL - WILL’S P.O.V.                                              
+                                                                                    
+               The street is empty. The pendulum stops swinging, snapping           
+               into place as Will snaps into focus. He watches the quiet            
+               house (he just back-walked out of) from across the street.           
+               Through the partially curtained windows, he can see the              
+               silhouettes of Theresa and Thomas Marlow.             
+                                                                                    
+               Will watches them for a long moment, taking in their                 
+               domesticity, then walks with purpose for the front door.             
+               OVERHEAD SHOT- OMNISCIENT P.O.V.                                     
+                                                                                    
+               The crowd of Officers, Detectives, Coroners and Specialists          
+               parts to allow Will Graham a direct path.                            
+                                                                                    
+               ON WILL - WILL’S P.O.V.                                              
+                                                                                    
+               He marches to the front door and violently kicks it in. The          
+               HOME SECURITY ALARM BLARES. Thomas Marlow rushes down the            
+               stairs, two steps at a time, moving to intercept Will.               
+                                                                                    
+               Will raises a towel-wrapped arm. Thomas realizes too late            
+               that it’s concealing a GUN. Will SHOOTS HIM TWICE THROUGH            
+               THE NECK. 
+               The shots are quick cuts in slow motion, showing entry and exit wounds, and plumes of terrycloth debris.
+                                   WILL GRAHAM                                      
+                         I shoot Mr. Marlow twice, severing                         
+                         jugulars and carotids with near                            
+                         surgical precision. This is what I do.                               
+                                                                                    
+               Theresa Marlow is frantically pushing the panic code into the        
+               HOME SECURITY KEYPAD when Will SHOOTS HER expertly THROUGH          
+               THE THROAT, missing her jugular, BREAKING HER NECK and               
+               peppering the KEYPAD with blood. She drops to the floor.            
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                 HANNIBAL - PROD. #101 - DBL GREEN Collated 6/26/13     3.          
+                                                                                    
+                                                                                    
+                                   WILL GRAHAM (CONT’D)                             
+                         I shoot Mrs. Marlow expertly                               
+                         through the neck. It’s not a fatal wound. The bullet misses                             
+                         every artery. But she can still feel it.                         
+                         She’s helpless. This is what I do.                               
+               Will finishes punching in “OFF” on the alarm code and the            
+               blaring home security alarm falls silent. The              
+               PHONE IMMEDIATELY RINGS. Will picks it up.                           
+                                   VOICE ON TELEPHONE                               
+                         Who is this?                                             
+                                                                                    
+               Will hangs up, then asks:              
+                                                                                    
+                                   WILL GRAHAM                                      
+                         I need the Incident Report from the                        
+                         Home Security company.                                     
+                                                                                    
+               Will is now holding the Incident Report.              
+                                                                                    
+                                   WILL GRAHAM (CONT’D)                             
+                             (perusing the report)                                  
+                         This was recorded as a false alarm.                        
+                         There was a false alarm last week.                         
+                             (then)                                                 
+                         He tapped their phone.                                     
+                                                          SMASH CUT TO:             
 
