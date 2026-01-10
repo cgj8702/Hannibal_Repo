@@ -89,8 +89,12 @@ def process_v2_results():
                                 # Strategy B: Check the INPUT prompt for the original text artifacts
                                 elif 'instance' in entry:
                                     try:
-                                        # Drill down: instance -> contents -> parts -> text
-                                        input_prompt = entry['instance']['contents'][0]['parts'][0]['text']
+                                        # Drill down: instance -> [request] -> contents -> parts -> text
+                                        instance_data = entry['instance']
+                                        if 'request' in instance_data:
+                                            input_prompt = instance_data['request']['contents'][0]['parts'][0]['text']
+                                        else:
+                                            input_prompt = instance_data['contents'][0]['parts'][0]['text']
                                         
                                         # Look for "Hannibal_1x01" style patterns or title cards in input
                                         # Example input text: "Screenplay Content:\n... HANNIBAL ... Ep. #101"
@@ -108,7 +112,8 @@ def process_v2_results():
                                                 filename = f"Proofread_Hannibal_{ep_num}_V2.txt"
                                         
                                         # Fallback: Look for "Aperitif", "Entree" etc if we had a map (we don't easily)
-                                    except Exception:
+                                    except Exception as e:
+                                        # print(f"Filename inference failed: {e}")
                                         pass
 
                                 # Fallback Strategy C: Use Hash or Order (Last Resort)

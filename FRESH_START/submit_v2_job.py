@@ -3,14 +3,17 @@ from google.cloud import aiplatform
 import time
 
 # Configuration
-PROJECT_ID = "hannibal-chatbot-447514" # Derived from previous context or user's project
-# Wait, I don't know the project ID for sure. 
-# I will try to get it from environment or let the user fill it.
-# Actually, the user has a GCS bucket "hannibal-screenplays". I can assume the project is linked.
-# I will use a placeholder or try to infer. 
-# The `gcloud config list` output would have been useful.
-# But `google.auth.default()` usually picks it up.
-# Let's try to pass None and see if it picks up from auth.
+import google.auth
+
+# Configuration
+# Try to get project from environment or auth
+try:
+    _, project_id = google.auth.default()
+    PROJECT_ID = project_id
+    print(f"Detected Project ID: {PROJECT_ID}")
+except:
+    PROJECT_ID = "hannibal-chatbot-447514" # Fallback
+    print(f"Using Fallback Project ID: {PROJECT_ID}")
 
 REGION = "us-central1"
 JOB_DISPLAY_NAME = "hannibal-proofread-v2"
@@ -19,7 +22,7 @@ GCS_SOURCE = "gs://hannibal-screenplays/batch_request_v2.jsonl"
 GCS_DESTINATION = "gs://hannibal-screenplays/output_v2/"
 
 def submit_job():
-    aiplatform.init(location=REGION)
+    aiplatform.init(project=PROJECT_ID, location=REGION)
 
     job = aiplatform.BatchPredictionJob.create(
         job_display_name=JOB_DISPLAY_NAME,
