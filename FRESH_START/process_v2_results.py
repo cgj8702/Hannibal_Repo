@@ -3,10 +3,37 @@ import json
 import os
 import glob
 import re
+from collections import defaultdict
 
 # Configuration
-INPUT_PATTERN = "output_v2/*.jsonl" # Path where we will download results
+INPUT_PATTERN = "output_v2_chunked/*.jsonl"
 OUTPUT_DIR = "Final_Proofread_Screenplays_V2"
+
+def clean_markdown_and_parse(raw_text, filename, chunk_index):
+    # Clean formatting (strip markdown code blocks)
+    if raw_text.strip().startswith("```"):
+        raw_text = re.sub(r"^```(?:json)?\n", "", raw_text.strip())
+        raw_text = re.sub(r"\n```$", "", raw_text)
+    
+    raw_text = raw_text.strip()
+    
+    try:
+        model_output = json.loads(raw_text)
+        
+        # Check structure
+        if 'full_reconstructed_text' in model_output:
+            return model_output['full_reconstructed_text']
+        elif 'corrected_segments' in model_output:
+            full_text = ""
+            for seg in model_output['corrected_segments']:
+                full_text += seg.get('corrected_text', '') + "\n\n"
+            return full_text
+        else:
+            return str(model_output) # Fallback
+            
+    except json.JSONDecodeError as e:
+        print(f"Warning: JSON decode failed for {filename} (Chunk {chunk_index}). Using raw snippet.")
+        return raw_text
 
 def process_v2_results():
     if not os.path.exists(OUTPUT_DIR):
@@ -14,10 +41,16 @@ def process_v2_results():
         
     result_files = glob.glob(INPUT_PATTERN)
     if not result_files:
-        print("No result files found in output_v2/")
+        print("No result files found in output_v2_chunked/")
         return
 
     print(f"Processing {len(result_files)} result files...")
+    
+    # Storage: filename -> {chunk_index -> content}
+    screenplay_parts = defaultdict(dict)
+    screenplay_totals = {} # filename -> total_chunks expected
+    
+    processed_count = 0
     
     for file_path in result_files:
         print(f"Reading {file_path}...")
@@ -25,117 +58,74 @@ def process_v2_results():
             for line in f:
                 try:
                     entry = json.loads(line)
+                    processed_count += 1
                     
-                    # 1. Identify File
-                    # Vertex AI Batch Input URI is in entry['instance']['content'] or request info
-                    # We might need to map it back if the output doesn't preserve filename clearly
-                    # Usually entry['instance'] contains the original input.
-                    if 'instance' in entry and 'content' in entry['instance']:
-                         # 'content' might be the prompt itself if we successfully mapped it?
-                         # Or it's the GCS URI of the input file if we used file-based input?
-                         # In create_batch_request_v2.py, we put the PROMPT in "contents".
-                         # We didn't allow passing a filename in metadata easily via the standard structure.
-                         # CHECK: Did we lose the filename mapping?
-                         
-                         # In V1, we used "request" field to match?
-                         # Actually, in create_batch_request_v2.py, we wrote:
-                         # request_entry = { "request": { "contents": ... } }
-                         # We did NOT include a custom ID.
-                         # This is a potential issue! We won't know which file is which unless we infer it from content.
-                         # OR we rely on the order? (Risky)
-                         pass
+                    # 1. Extract Metadata from Request
+                    filename = "Unknown.txt"
+                    chunk_index = -1
+                    total_chunks = -1
                     
-                    # Alternative: We infer the episode from the text content.
-                    # The prompt included the whole screenplay.
-                    # The response includes the "corrected_text" or "corrected_segments".
-                    # We can look at the first scene header or "HANNIBAL" title card equivalent.
+                    if 'request' in entry and 'contents' in entry['request']:
+                        try:
+                            prompt_text = entry['request']['contents'][0]['parts'][0]['text']
+                            # Look for PROOFREAD_METADATA: filename='Hannibal_1x01.txt', chunk=1, total=5
+                            meta_match = re.search(r"PROOFREAD_METADATA: filename='(.*?)', chunk=(\d+), total=(\d+)", prompt_text)
+                            if meta_match:
+                                filename = meta_match.group(1)
+                                chunk_index = int(meta_match.group(2))
+                                total_chunks = int(meta_match.group(3))
+                                
+                                screenplay_totals[filename] = total_chunks
+                        except Exception:
+                            pass
                     
-                    # 2. Extract Prediction
-                    # prediction['candidates'][0]['content']['parts'][0]['text']
-                    # This text should be valid JSON.
-                    if 'prediction' in entry:
-                        candidates = entry['prediction'].get('candidates', [])
+                    if chunk_index == -1:
+                        print("Skipping entry: Could not extract metadata.")
+                        continue
+
+                    # 2. Extract Response Content
+                    content = ""
+                    if 'response' in entry:
+                        candidates = entry['response'].get('candidates', [])
                         if candidates:
                             raw_text = candidates[0]['content']['parts'][0]['text']
+                            content = clean_markdown_and_parse(raw_text, filename, chunk_index)
                             
-                            # Parse the Model's JSON Output
-                            try:
-                                model_output = json.loads(raw_text)
-                                
-                                # Reconstruct Content
-                                full_text = ""
-                                
-                                # Check if we have 'full_reconstructed_text' (if model provided it)
-                                if 'full_reconstructed_text' in model_output:
-                                    full_text = model_output['full_reconstructed_text']
-                                elif 'corrected_segments' in model_output:
-                                    segments = model_output['corrected_segments']
-                                    for seg in segments:
-                                        # Prefer corrected_text
-                                        full_text += seg.get('corrected_text', '') + "\n\n"
-                                else:
-                                    # Fallback
-                                    full_text = str(model_output)
-                                
-                                # 3. Determine Filename
-                                filename = "Unknown_Screenplay.txt"
-                                
-                                # Strategy A: Check strict headers in output (if present)
-                                match = re.search(r'Ep\. #(\d+)', full_text)
-                                if match:
-                                    ep_num = match.group(1)
-                                    filename = f"Proofread_Hannibal_{ep_num}_V2.txt"
-                                
-                                # Strategy B: Check the INPUT prompt for the original text artifacts
-                                elif 'instance' in entry:
-                                    try:
-                                        # Drill down: instance -> [request] -> contents -> parts -> text
-                                        instance_data = entry['instance']
-                                        if 'request' in instance_data:
-                                            input_prompt = instance_data['request']['contents'][0]['parts'][0]['text']
-                                        else:
-                                            input_prompt = instance_data['contents'][0]['parts'][0]['text']
-                                        
-                                        # Look for "Hannibal_1x01" style patterns or title cards in input
-                                        # Example input text: "Screenplay Content:\n... HANNIBAL ... Ep. #101"
-                                        
-                                        # Regex for "Ep. #101" or "Prod. #101"
-                                        ep_match = re.search(r'(?:Ep\.|Prod\.) #(\d+)', input_prompt, re.IGNORECASE)
-                                        if ep_match:
-                                            ep_num = ep_match.group(1)
-                                            # Convert 101 to 1x01 logic?
-                                            if len(ep_num) == 3:
-                                                season = ep_num[0]
-                                                episode = ep_num[1:]
-                                                filename = f"Proofread_Hannibal_{season}x{episode}_V2.txt"
-                                            else:
-                                                filename = f"Proofread_Hannibal_{ep_num}_V2.txt"
-                                        
-                                        # Fallback: Look for "Aperitif", "Entree" etc if we had a map (we don't easily)
-                                    except Exception as e:
-                                        # print(f"Filename inference failed: {e}")
-                                        pass
-
-                                # Fallback Strategy C: Use Hash or Order (Last Resort)
-                                if filename == "Unknown_Screenplay.txt":
-                                     # Use existing count
-                                    existing_count = len(glob.glob(os.path.join(OUTPUT_DIR, "Unknown*.txt")))
-                                    filename = f"Unknown_Screenplay_{existing_count + 1}.txt"
-
-                                # Save
-                                out_path = os.path.join(OUTPUT_DIR, filename)
-                                with open(out_path, 'w', encoding='utf-8') as out_f:
-                                    out_f.write(full_text)
-                                print(f"Saved {filename}")
-                                
-                            except json.JSONDecodeError:
-                                print("Model output was not valid JSON.")
-                                # Save raw text for debugging
-                                # ...
-                                pass
-
+                    # Store
+                    screenplay_parts[filename][chunk_index] = content
+                    
                 except Exception as e:
                     print(f"Error processing line: {e}")
+
+    # 3. Reassemble and Save
+    print(f"Reassembling {len(screenplay_parts)} screenplays...")
+    
+    for filename, parts in screenplay_parts.items():
+        total_expected = screenplay_totals.get(filename, len(parts))
+        
+        # Check completeness
+        missing_chunks = []
+        full_text = ""
+        
+        for i in range(1, total_expected + 1):
+            if i in parts:
+                full_text += parts[i] + "\n\n" # Add some spacing between chunks
+            else:
+                missing_chunks.append(i)
+                full_text += f"\n[MISSING CHUNK {i}]\n"
+        
+        if missing_chunks:
+            print(f"Warning: {filename} missing chunks {missing_chunks}")
+        
+        # Determine Output Filename (Use original filename but prepend Proofread)
+        # If filename was "Hannibal_1x01...txt", make it "Proofread_Hannibal_1x01...txt"
+        out_name = f"Proofread_V2_{filename}"
+        out_path = os.path.join(OUTPUT_DIR, out_name)
+        
+        with open(out_path, 'w', encoding='utf-8') as out_f:
+            out_f.write(full_text)
+            
+        print(f"Saved {out_name} ({len(parts)}/{total_expected} chunks)")
 
 if __name__ == "__main__":
     process_v2_results()

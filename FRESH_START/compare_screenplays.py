@@ -5,12 +5,27 @@ import sys
 import glob
 
 PARSED_DIR = "ParsedScreenplays"
-PROOFREAD_DIR = "Final_Proofread_Screenplays"
+PROOFREAD_DIR = "Final_Proofread_Screenplays_V2"
 
 def compare_file(basename):
     original_path = os.path.join(PARSED_DIR, basename)
-    proofread_filename = f"Proofread_{basename}"
-    proofread_path = os.path.join(PROOFREAD_DIR, proofread_filename)
+    import re
+    
+    # Identify Ep Code
+    # Assuming basename is Hannibal_1x01_Aperitif.txt
+    ep_match = re.search(r'(\d+x\d+)', basename)
+    proofread_path = None
+    
+    if ep_match:
+        ep_code = ep_match.group(1)
+        # Look for matching file in V2 dir
+        candidates = glob.glob(os.path.join(PROOFREAD_DIR, f"*{ep_code}*V2.txt"))
+        if candidates:
+            proofread_path = candidates[0]
+            
+    if not proofread_path or not os.path.exists(proofread_path):
+        proofread_filename = f"Proofread_{basename}"
+        proofread_path = os.path.join(PROOFREAD_DIR, proofread_filename)
     
     if not os.path.exists(original_path):
         print(f"Original file not found: {original_path}")

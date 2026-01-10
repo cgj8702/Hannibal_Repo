@@ -16,10 +16,10 @@ except:
     print(f"Using Fallback Project ID: {PROJECT_ID}")
 
 REGION = "us-central1"
-JOB_DISPLAY_NAME = "hannibal-proofread-v2"
+JOB_DISPLAY_NAME = "hannibal-proofread-v2-chunked"
 MODEL_NAME = "publishers/google/models/gemini-2.0-flash-lite-001"
-GCS_SOURCE = "gs://hannibal-screenplays/batch_request_v2.jsonl"
-GCS_DESTINATION = "gs://hannibal-screenplays/output_v2/"
+GCS_SOURCE = "gs://hannibal-screenplays/batch_request_chunked.jsonl"
+GCS_DESTINATION = "gs://hannibal-screenplays/output_v2_chunked/"
 
 def submit_job():
     aiplatform.init(project=PROJECT_ID, location=REGION)
