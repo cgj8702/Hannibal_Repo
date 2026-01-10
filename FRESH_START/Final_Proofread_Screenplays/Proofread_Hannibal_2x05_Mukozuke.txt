@@ -1,0 +1,430 @@
+Here's the proofread and corrected version of the screenplay segment, with explanations of each error:
+
+**Errors and Corrections:**
+
+1.  **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** Teaser
+    *   **Error:** "Drips with a PLIP-PLOP." is a description and should not be capitalized.
+    *   **Correction:** "Drips with a plip-plop."
+
+2.  **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. HANNIBAL LECTER'S HOUSE - KITCHEN - DAY
+    *   **Error:** "BACON sizzles as it is laid in a hot pan. EXTREME CLOSE-UP" is a description and should not be capitalized.
+    *   **Correction:** "Bacon sizzles as it is laid in a hot pan. EXTREME CLOSE-UP"
+
+3.  **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. HANNIBAL LECTER'S HOUSE - KITCHEN - DAY
+    *   **Error:** "POPS with a stinging hiss..." is a description and should not be capitalized.
+    *   **Correction:** "pops with a stinging hiss..."
+
+4.  **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. HANNIBAL LECTER'S HOUSE - KITCHEN - DAY
+    *   **Error:** "An EGG -- SLOW-MO as it flies up in the air and comes down --" is a description and should not be capitalized.
+    *   **Correction:** "An egg -- slow-mo as it flies up in the air and comes down --"
+
+5.  **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. HANNIBAL LECTER'S HOUSE - KITCHEN - DAY
+    *   **Error:** "CRACK! -- on the back of the sharp knife." is a description and should not be capitalized.
+    *   **Correction:** "crack! -- on the back of the sharp knife."
+
+6.  **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. HANNIBAL LECTER'S HOUSE - KITCHEN - DAY
+    *   **Error:** "An ESPRESSO MACHINE sucks and DRIPS into a china cup." is a description and should not be capitalized.
+    *   **Correction:** "An espresso machine sucks and drips into a china cup."
+
+7.  **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. HANNIBAL LECTER'S HOUSE - KITCHEN - DAY
+    *   **Error:** "A REFRIGERATOR door opens and hands reach in to take a" is a description and should not be capitalized.
+    *   **Correction:** "A refrigerator door opens and hands reach in to take a"
+
+8.  **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. HANNIBAL LECTER'S HOUSE - KITCHEN - DAY
+    *   **Error:** "PITCHER OF JUICE. The refrigerator door CLOSES." is a description and should not be capitalized.
+    *   **Correction:** "pitcher of juice. The refrigerator door closes."
+
+9.  **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. HANNIBAL LECTER'S HOUSE - KITCHEN - DAY
+    *   **Error:** "Reveal HANNIBAL LECTER, in his bathrobe, as he places his" is a description and should not be capitalized.
+    *   **Correction:** "Reveal Hannibal Lecter, in his bathrobe, as he places his"
+
+10. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. HANNIBAL LECTER'S HOUSE - KITCHEN - DAY
+    *   **Error:** "A PLASTIC TRAY OF BREAKFAST SLOP" is a description and should not be capitalized.
+    *   **Correction:** "A plastic tray of breakfast slop"
+
+11. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BSHCI - WILL GRAHAM'S CELL - DAY
+    *   **Error:** "Is placed on the table. WILL GRAHAM, in shorts and T-shirt," is a description and should not be capitalized.
+    *   **Correction:** "Is placed on the table. Will Graham, in shorts and T-shirt,"
+
+12. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BSHCI - WILL GRAHAM'S CELL - DAY
+    *   **Error:** "CUT TO:" is a formatting inconsistency.
+    *   **Correction:** "CUT TO:"
+
+13. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BSHCI - WILL GRAHAM'S CELL - DAY
+    *   **Error:** "JACK CRAWFORD" is a formatting inconsistency.
+    *   **Correction:** "Jack Crawford"
+
+14. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. HANNIBAL LECTER'S HOUSE - DINING ROOM - DAY
+    *   **Error:** "Hannibal places the breakfast tray in front of Jack who still" is a description and should not be capitalized.
+    *   **Correction:** "Hannibal places the breakfast tray in front of Jack who still"
+
+15. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. HANNIBAL LECTER'S HOUSE - DINING ROOM - DAY
+    *   **Error:** "HANNIBAL Ep. #205 "Mukozuke" FINAL DRAFT 11/03/13 2." is a formatting inconsistency.
+    *   **Correction:** "HANNIBAL Ep. #205 "Mukozuke" FINAL DRAFT 11/03/13 2."
+
+16. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. HANNIBAL LECTER'S HOUSE - DINING ROOM - DAY
+    *   **Error:** "HANNIBAL" is a formatting inconsistency.
+    *   **Correction:** "Hannibal"
+
+17. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. HANNIBAL LECTER'S HOUSE - DINING ROOM - DAY
+    *   **Error:** "JACK CRAWFORD" is a formatting inconsistency.
+    *   **Correction:** "Jack Crawford"
+
+18. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. HANNIBAL LECTER'S HOUSE - DINING ROOM - DAY
+    *   **Error:** "HANNIBAL" is a formatting inconsistency.
+    *   **Correction:** "Hannibal"
+
+19. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. HANNIBAL LECTER'S HOUSE - DINING ROOM - DAY
+    *   **Error:** "JACK CRAWFORD" is a formatting inconsistency.
+    *   **Correction:** "Jack Crawford"
+
+20. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. HANNIBAL LECTER'S HOUSE - DINING ROOM - DAY
+    *   **Error:** "HANNIBAL" is a formatting inconsistency.
+    *   **Correction:** "Hannibal"
+
+21. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. HANNIBAL LECTER'S HOUSE - DINING ROOM - DAY
+    *   **Error:** "JACK CRAWFORD (CONT’D)" is a formatting inconsistency.
+    *   **Correction:** "Jack Crawford (CONT’D)"
+
+22. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. HANNIBAL LECTER'S HOUSE - DINING ROOM - DAY
+    *   **Error:** "HANNIBAL" is a formatting inconsistency.
+    *   **Correction:** "Hannibal"
+
+23. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. HANNIBAL LECTER'S HOUSE - DINING ROOM - DAY
+    *   **Error:** "CUT TO:" is a formatting inconsistency.
+    *   **Correction:** "CUT TO:"
+
+24. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** EXT. OBSERVATORY - DAY
+    *   **Error:** "As it pulls to a halt on crunching gravel. We are --" is a description and should not be capitalized.
+    *   **Correction:** "As it pulls to a halt on crunching gravel. We are --"
+
+25. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** EXT. OBSERVATORY - DAY
+    *   **Error:** "Reveal this to be FREDDIE LOUNDS'S POV." is a description and should not be capitalized.
+    *   **Correction:** "Reveal this to be Freddie Lounds's POV."
+
+26. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. FREDDIE LOUNDS'S CAR - DAY
+    *   **Error:** "She stares at the observatory through the windshield." is a description and should not be capitalized.
+    *   **Correction:** "She stares at the observatory through the windshield."
+
+27. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. FREDDIE LOUNDS'S CAR - DAY
+    *   **Error:** "Opens the GLOVE COMPARTMENT and" is a description and should not be capitalized.
+    *   **Correction:** "Opens the glove compartment and"
+
+28. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** EXT. OBSERVATORY - DAY
+    *   **Error:** "Freddie crunches up the gravel. Each step makes her less" is a description and should not be capitalized.
+    *   **Correction:** "Freddie crunches up the gravel. Each step makes her less"
+
+29. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** EXT. OBSERVATORY - DAY
+    *   **Error:** "Her hand GRIPS the gun in her pocket. She pushes the door" is a description and should not be capitalized.
+    *   **Correction:** "Her hand grips the gun in her pocket. She pushes the door"
+
+30. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** EXT. OBSERVATORY - DAY
+    *   **Error:** "and steps into the DARKNESS beyond. STAY ON THE DOOR as" is a description and should not be capitalized.
+    *   **Correction:** "and steps into the darkness beyond. Stay on the door as"
+
+31. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. OBSERVATORY - MOMENTS LATER
+    *   **Error:** "CLOSE ON FREDDIE'S FACE" is a description and should not be capitalized.
+    *   **Correction:** "CLOSE ON Freddie's face"
+
+32. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. OBSERVATORY - MOMENTS LATER
+    *   **Error:** "CAMERA SLOWLY CREEPS with Freddie from behind as she gingerly" is a description and should not be capitalized.
+    *   **Correction:** "Camera slowly creeps with Freddie from behind as she gingerly"
+
+33. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. OBSERVATORY - MOMENTS LATER
+    *   **Error:** "Inching CLOSER and CLOSER toward the main" is a description and should not be capitalized.
+    *   **Correction:** "Inching closer and closer toward the main"
+
+34. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. OBSERVATORY - MOMENTS LATER
+    *   **Error:** "THE MAIN TELESCOPE ROOM" is a description and should not be capitalized.
+    *   **Correction:** "The main telescope room"
+
+35. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. OBSERVATORY - MOMENTS LATER
+    *   **Error:** "Freddie moves stealthily through it, CAMERA PRECEDING her now" is a description and should not be capitalized.
+    *   **Correction:** "Freddie moves stealthily through it, camera preceding her now"
+
+36. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. OBSERVATORY - MOMENTS LATER
+    *   **Error:** "as she takes a picture, the FLASH WHITES US OUT." is a description and should not be capitalized.
+    *   **Correction:** "as she takes a picture, the flash whites us out."
+
+37. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. OBSERVATORY - MOMENTS LATER
+    *   **Error:** "MATCH CUT TO:" is a formatting inconsistency.
+    *   **Correction:** "MATCH CUT TO:"
+
+38. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. OBSERVATORY - MOMENTS LATER
+    *   **Error:** "TRAVEL down from the GLARE of OVERHEAD LIGHTS to reveal we" is a description and should not be capitalized.
+    *   **Correction:** "Travel down from the glare of overhead lights to reveal we"
+
+39. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BSHCI - WILL GRAHAM'S CELL - DAY
+    *   **Error:** "Hannibal Lecter stands opposite Will Graham's cell. Will" is a description and should not be capitalized.
+    *   **Correction:** "Hannibal Lecter stands opposite Will Graham's cell. Will"
+
+40. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BSHCI - WILL GRAHAM'S CELL - DAY
+    *   **Error:** "WILL GRAHAM" is a formatting inconsistency.
+    *   **Correction:** "Will Graham"
+
+41. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BSHCI - WILL GRAHAM'S CELL - DAY
+    *   **Error:** "HANNIBAL" is a formatting inconsistency.
+    *   **Correction:** "Hannibal"
+
+42. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BSHCI - WILL GRAHAM'S CELL - DAY
+    *   **Error:** "WILL GRAHAM" is a formatting inconsistency.
+    *   **Correction:** "Will Graham"
+
+43. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BSHCI - WILL GRAHAM'S CELL - DAY
+    *   **Error:** "HANNIBAL" is a formatting inconsistency.
+    *   **Correction:** "Hannibal"
+
+44. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BSHCI - WILL GRAHAM'S CELL - DAY
+    *   **Error:** "WILL GRAHAM" is a formatting inconsistency.
+    *   **Correction:** "Will Graham"
+
+45. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BSHCI - WILL GRAHAM'S CELL - DAY
+    *   **Error:** "HANNIBAL" is a formatting inconsistency.
+    *   **Correction:** "Hannibal"
+
+46. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BSHCI - WILL GRAHAM'S CELL - DAY
+    *   **Error:** "WILL GRAHAM" is a formatting inconsistency.
+    *   **Correction:** "Will Graham"
+
+47. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BSHCI - WILL GRAHAM'S CELL - DAY
+    *   **Error:** "HANNIBAL" is a formatting inconsistency.
+    *   **Correction:** "Hannibal"
+
+48. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BSHCI - WILL GRAHAM'S CELL - DAY
+    *   **Error:** "WILL GRAHAM" is a formatting inconsistency.
+    *   **Correction:** "Will Graham"
+
+49. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BSHCI - WILL GRAHAM'S CELL - DAY
+    *   **Error:** "HANNIBAL" is a formatting inconsistency.
+    *   **Correction:** "Hannibal"
+
+50. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BSHCI - WILL GRAHAM'S CELL - DAY
+    *   **Error:** "WILL GRAHAM" is a formatting inconsistency.
+    *   **Correction:** "Will Graham"
+
+51. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BSHCI - WILL GRAHAM'S CELL - DAY
+    *   **Error:** "HANNIBAL" is a formatting inconsistency.
+    *   **Correction:** "Hannibal"
+
+52. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BSHCI - WILL GRAHAM'S CELL - DAY
+    *   **Error:** "WILL GRAHAM" is a formatting inconsistency.
+    *   **Correction:** "Will Graham"
+
+53. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BSHCI - WILL GRAHAM'S CELL - DAY
+    *   **Error:** "HANNIBAL" is a formatting inconsistency.
+    *   **Correction:** "Hannibal"
+
+54. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BSHCI - WILL GRAHAM'S CELL - DAY
+    *   **Error:** "WILL GRAHAM" is a formatting inconsistency.
+    *   **Correction:** "Will Graham"
+
+55. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BSHCI - WILL GRAHAM'S CELL - DAY
+    *   **Error:** "HANNIBAL" is a formatting inconsistency.
+    *   **Correction:** "Hannibal"
+
+56. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BSHCI - WILL GRAHAM'S CELL - DAY
+    *   **Error:** "WILL GRAHAM" is a formatting inconsistency.
+    *   **Correction:** "Will Graham"
+
+57. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BSHCI - WILL GRAHAM'S CELL - DAY
+    *   **Error:** "HANNIBAL" is a formatting inconsistency.
+    *   **Correction:** "Hannibal"
+
+58. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BSHCI - WILL GRAHAM'S CELL - DAY
+    *   **Error:** "OFF Hannibal allowing a small smile..." is a description and should not be capitalized.
+    *   **Correction:** "Off Hannibal allowing a small smile..."
+
+59. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** EXT. OBSERVATORY - DAY
+    *   **Error:** "Jack Crawford, followed by an armada of FBI SEDANS and POLICE" is a description and should not be capitalized.
+    *   **Correction:** "Jack Crawford, followed by an armada of FBI sedans and police"
+
+60. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** EXT. OBSERVATORY - DAY
+    *   **Error:** "UNIFORMED OFFICERS are with Freddie Lounds. She sees Jack" is a description and should not be capitalized.
+    *   **Correction:** "Uniformed officers are with Freddie Lounds. She sees Jack"
+
+61. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** EXT. OBSERVATORY - DAY
+    *   **Error:** "Genuine. Horror still on her face." is a description and should not be capitalized.
+    *   **Correction:** "Genuine. Horror still on her face."
+
+62. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** EXT. OBSERVATORY - DAY
+    *   **Error:** "FREDDIE LOUNDS" is a formatting inconsistency.
+    *   **Correction:** "Freddie Lounds"
+
+63. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** EXT. OBSERVATORY - DAY
+    *   **Error:** "FREDDIE LOUNDS (CONT’D)" is a formatting inconsistency.
+    *   **Correction:** "Freddie Lounds (CONT’D)"
+
+64. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** EXT. OBSERVATORY - DAY
+    *   **Error:** "FREDDIE LOUNDS (CONT’D)" is a formatting inconsistency.
+    *   **Correction:** "Freddie Lounds (CONT’D)"
+
+65. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. OBSERVATORY - CONTINUOUS
+    *   **Error:** "CAMERA TRACKS along Jack as he moves through the observatory." is a description and should not be capitalized.
+    *   **Correction:** "Camera tracks along Jack as he moves through the observatory."
+
+66. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. OBSERVATORY - CONTINUOUS
+    *   **Error:** "BEVERLY KATZ" is a formatting inconsistency.
+    *   **Correction:** "Beverly Katz"
+
+67. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. OBSERVATORY - CONTINUOUS
+    *   **Error:** "Stands in PROFILE to Jack, fully clothed, backlit by the" is a description and should not be capitalized.
+    *   **Correction:** "Stands in profile to Jack, fully clothed, backlit by the"
+
+68. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. OBSERVATORY - CONTINUOUS
+    *   **Error:** "TELESCOPE DOORS. For a second she" is a description and should not be capitalized.
+    *   **Correction:** "telescope doors. For a second she"
+
+69. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. OBSERVATORY - CONTINUOUS
+    *   **Error:** "Jack moves closer and we SLOWLY reveal, as his PERSPECTIVE" is a description and should not be capitalized.
+    *   **Correction:** "Jack moves closer and we slowly reveal, as his perspective"
+
+70. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. OBSERVATORY - CONTINUOUS
+    *   **Error:** "BACK TO JACK, his horror." is a description and should not be capitalized.
+    *   **Correction:** "Back to Jack, his horror."
+
+71. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. OBSERVATORY - CONTINUOUS
+    *   **Error:** "CUT TO BLACK." is a formatting inconsistency.
+    *   **Correction:** "CUT TO BLACK."
+
+72. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. OBSERVATORY - CONTINUOUS
+    *   **Error:** "END OF TEASER" is a formatting inconsistency.
+    *   **Correction:** "END OF TEASER"
+
+73. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BAU - CORRIDOR - DAY
+    *   **Error:** "CAMERA glides down the empty corridor. Silence. Then:" is a description and should not be capitalized.
+    *   **Correction:** "Camera glides down the empty corridor. Silence. Then:"
+
+74. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BAU - CORRIDOR - DAY
+    *   **Error:** "JACK CRAWFORD (V.O.)" is a formatting inconsistency.
+    *   **Correction:** "Jack Crawford (V.O.)"
+
+75. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BAU - JACK CRAWFORD'S OFFICE - DAY
+    *   **Error:** "CAMERA MOVES along the corridor revealing JIMMY PRICE and" is a description and should not be capitalized.
+    *   **Correction:** "Camera moves along the corridor revealing Jimmy Price and"
+
+76. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BAU - JACK CRAWFORD'S OFFICE - DAY
+    *   **Error:** "JACK CRAWFORD (V.O.)" is a formatting inconsistency.
+    *   **Correction:** "Jack Crawford (V.O.)"
+
+77. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BAU - MORGUE - DAY
+    *   **Error:** "The cold steel table. Light glints off stainless steel" is a description and should not be capitalized.
+    *   **Correction:** "The cold steel table. Light glints off stainless steel"
+
+78. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BAU - MORGUE - DAY
+    *   **Error:** "JACK CRAWFORD (V.O.)" is a formatting inconsistency.
+    *   **Correction:** "Jack Crawford (V.O.)"
+
+79. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BAU - EVIDENCE PROCESSING - DAY
+    *   **Error:** "Across the static-free room where Beverly worked. The fiber-" is a description and should not be capitalized.
+    *   **Correction:** "Across the static-free room where Beverly worked. The fiber-"
+
+80. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BAU - EVIDENCE PROCESSING - DAY
+    *   **Error:** "JACK CRAWFORD (V.O.)" is a formatting inconsistency.
+    *   **Correction:** "Jack Crawford (V.O.)"
+
+81. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BAU - EVIDENCE PROCESSING - DAY
+    *   **Error:** "CAMERA MOVES BACK through the empty, desolate BAU." is a description and should not be capitalized.
+    *   **Correction:** "Camera moves back through the empty, desolate BAU."
+
+82. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BAU - WAR ROOM - DAY
+    *   **Error:** "CAMERA MOVES over the heads of gathered AGENTS sitting in" is a description and should not be capitalized.
+    *   **Correction:** "Camera moves over the heads of gathered agents sitting in"
+
+83. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BAU - WAR ROOM - DAY
+    *   **Error:** "JACK CRAWFORD" is a formatting inconsistency.
+    *   **Correction:** "Jack Crawford"
+
+84. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BAU - WAR ROOM - DAY
+    *   **Error:** "Brian Zeller and Jimmy Price in the front row, still numb." is a description and should not be capitalized.
+    *   **Correction:** "Brian Zeller and Jimmy Price in the front row, still numb."
+
+85. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BAU - WAR ROOM - DAY
+    *   **Error:** "ON WILL GRAHAM" is a formatting inconsistency.
+    *   **Correction:** "On Will Graham"
+
+86. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BAU - WAR ROOM - DAY
+    *   **Error:** "We hear the AMBIENT HUM of his circulatory system. His" is a description and should not be capitalized.
+    *   **Correction:** "We hear the ambient hum of his circulatory system. His"
+
+87. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BAU - WAR ROOM - DAY
+    *   **Error:** "BREATHING IS TIGHT, a man fighting strong emotions." is a description and should not be capitalized.
+    *   **Correction:** "breathing is tight, a man fighting strong emotions."
+
+88. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BSHCI - PRIVACY ROOM - DAY
+    *   **Error:** "He sits at the table, ALANA BLOOM by his side. Faces somber." is a description and should not be capitalized.
+    *   **Correction:** "He sits at the table, Alana Bloom by his side. Faces somber."
+
+89. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BSHCI - PRIVACY ROOM - DAY
+    *   **Error:** "Their lips moving, but the words are MOS, in SLO-MO, their" is a description and should not be capitalized.
+    *   **Correction:** "Their lips moving, but the words are MOS, in slow-mo, their"
+
+90. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BSHCI - PRIVACY ROOM - DAY
+    *   **Error:** "BEVERLY KATZ" is a formatting inconsistency.
+    *   **Correction:** "Beverly Katz"
+
+91. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BSHCI - PRIVACY ROOM - DAY
+    *   **Error:** "Stands in the doorway behind the glass. Will Graham averts" is a description and should not be capitalized.
+    *   **Correction:** "Stands in the doorway behind the glass. Will Graham averts"
+
+92. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BSHCI - PRIVACY ROOM - DAY
+    *   **Error:** "WILL'S POV" is a formatting inconsistency.
+    *   **Correction:** "Will's POV"
+
+93. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BSHCI - PRIVACY ROOM - DAY
+    *   **Error:** "Jack Crawford and Alana Bloom sit opposite him, their mouths" is a description and should not be capitalized.
+    *   **Correction:** "Jack Crawford and Alana Bloom sit opposite him, their mouths"
+
+94. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BSHCI - PRIVACY ROOM - DAY
+    *   **Error:** "The AMBIENT HUM slides away and Will's voice comes up --" is a description and should not be capitalized.
+    *   **Correction:** "The ambient hum slides away and Will's voice comes up --"
+
+95. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BSHCI - PRIVACY ROOM - DAY
+    *   **Error:** "WILL GRAHAM" is a formatting inconsistency.
+    *   **Correction:** "Will Graham"
+
+96. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BSHCI - PRIVACY ROOM - DAY
+    *   **Error:** "OFF Will Graham --" is a formatting inconsistency.
+    *   **Correction:** "Off Will Graham --"
+
+97. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BSHCI - WILL GRAHAM'S CELL - DAY
+    *   **Error:** "Quick shots, impressionistic:" is a description and should not be capitalized.
+    *   **Correction:** "Quick shots, impressionistic:"
+
+98. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BSHCI - WILL GRAHAM'S CELL - DAY
+    *   **Error:** "WILL IS YANKED INTO A STRAITJACKET by MATTHEW BROWN (late" is a description and should not be capitalized.
+    *   **Correction:** "Will is yanked into a straitjacket by Matthew Brown (late"
+
+99. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BSHCI - WILL GRAHAM'S CELL - DAY
+    *   **Error:** "FETTERS (LEGCUFFS) ARE ATTACHED TO WILL'S ANKLES." is a description and should not be capitalized.
+    *   **Correction:** "Fetters (legcuffs) are attached to Will's ankles."
+
+100. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BSHCI - WILL GRAHAM'S CELL - DAY
+    *   **Error:** "DOUBLE-LEVER-LOCK HANDCUFFS ARE PLACED ON WILL'S WRISTS." is a description and should not be capitalized.
+    *   **Correction:** "Double-lever-lock handcuffs are placed on Will's wrists."
+
+101. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BSHCI - WILL GRAHAM'S CELL - DAY
+    *   **Error:** "WILL IS LED BACKWARD INTO AN UPRIGHT WHEELCHAIR." is a description and should not be capitalized.
+    *   **Correction:** "Will is led backward into an upright wheelchair."
+
+102. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BSHCI - WILL GRAHAM'S CELL - DAY
+    *   **Error:** "SHACKLED TO ITS FRAME." is a description and should not be capitalized.
+    *   **Correction:** "Shackled to its frame."
+
+103. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BSHCI - WILL GRAHAM'S CELL - DAY
+    *   **Error:** "CAMERA TRAVELS round behind the chair as Matthew approaches" is a description and should not be capitalized.
+    *   **Correction:** "Camera travels round behind the chair as Matthew approaches"
+
+104. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BSHCI - WILL GRAHAM'S CELL - DAY
+    *   **Error:** "WILL'S POV -- as the mask is raised toward his face. It comes" is a description and should not be capitalized.
+    *   **Correction:** "Will's POV -- as the mask is raised toward his face. It comes"
+
+105. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BSHCI - WILL GRAHAM'S CELL - DAY
+    *   **Error:** "ANGLE from behind the chair on Matthew and" is a description and should not be capitalized.
+    *   **Correction:** "Angle from behind the chair on Matthew and"
+
+106. **Episode:** Hannibal\_2x05\_Mukozuke.txt, **Scene:** INT. BSHCI - WILL GRAHAM'S CELL - DAY
+    *   **Error:** "PRE-LAP -- the WHINE of a wheelchair lift." is a description and should not be capitalized.
+    *   **Correction:** "Pre-lap -- the whine of a wheelchair lift."
+
+107. **Episode:** Hannibal\_2
+

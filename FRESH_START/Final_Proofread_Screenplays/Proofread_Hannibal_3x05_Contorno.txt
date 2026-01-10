@@ -1,0 +1,651 @@
+BLACK                                                                
+                                                                                    
+               After a moment, a single wisp of smoke rises through FRAME.          
+
+**2. Episode and Scene:** Hannibal_3x05_Contorno.txt - TRAIN TRACKS
+**Error:** Formatting: "STROBE" should be capitalized consistently with other scene directions.
+**Corrected Text:**
+               TRAIN TRACKS                                                         
+                                                                                    
+               Rails weave in a blur as the wood ties STROBE through FRAME.         
+
+**3. Episode and Scene:** Hannibal_3x05_Contorno.txt - CAMERA LOCKS ON ONE WINDOW. Inside are WILL GRAHAM and
+**Error:** Formatting: Missing a scene heading.
+**Corrected Text:**
+               CAMERA LOCKS ON ONE WINDOW. Inside are WILL GRAHAM and               
+               CHIYOH bathed in the light of dusk.                                  
+
+=== INT. TRAIN - WILL GRAHAM'S SLEEPER CABIN - DUSK ===
+
+**4. Episode and Scene:** Hannibal_3x05_Contorno.txt -  CHIYOH
+**Error:** Formatting: Missing a line break after the dialogue.
+**Corrected Text:**
+                                   CHIYOH                                           
+                         Hannibal would burn all kinds of                           
+                         barks and incense for me to                                
+                         identify by scent alone.                                   
+                                                                                    
+                             (then)                                                 
+                         He was charming the way a cub is                           
+                         charming, a small cub that grows up                        
+                         to be like one of the big cats.                            
+
+**5. Episode and Scene:** Hannibal_3x05_Contorno.txt -  HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14       2.
+**Error:** Formatting: The page number "2." should be right-aligned.
+**Corrected Text:**
+          HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14          2.     
+
+**6. Episode and Scene:** Hannibal_3x05_Contorno.txt -  CHIYOH
+**Error:** Formatting: Missing a line break after the dialogue.
+**Corrected Text:**
+                                   CHIYOH                                           
+                         I was his aunt's attendant. My                             
+                         parents sent me to learn from Lady                         
+                         Murasaki when I was just a girl. I                         
+                         learned from Hannibal, too. He had                         
+                         all the wisdom in miniature.                               
+                                                                                    
+
+**7. Episode and Scene:** Hannibal_3x05_Contorno.txt -  CHIYOH (CONT’D)
+**Error:** Formatting: Missing a line break after the dialogue.
+**Corrected Text:**
+                                   CHIYOH (CONT’D)                                  
+                             (re: the postcard)                                     
+                         I've never been to Italy. I never                          
+                         expected to. Birds eat thousands                           
+                         of snails every day. Some of those                         
+                         snails survive digestion and emerge                        
+                         to find they've traveled the world.                        
+                                                                                    
+
+**8. Episode and Scene:** Hannibal_3x05_Contorno.txt -  WIDER
+**Error:** Formatting: Missing a line break after the scene direction.
+**Corrected Text:**
+               WIDER                                                                
+                                                                                    
+               We see snails moving among the leaves.                               
+
+**9. Episode and Scene:** Hannibal_3x05_Contorno.txt -  WIDER
+**Error:** Formatting: Missing a line break after the scene direction.
+**Corrected Text:**
+               WIDER                                                                
+                                                                                    
+               These are the leaves wrapped around the CAGED MAN (from Ep.          
+               #303), still suspended in the basement of --                         
+
+**10. Episode and Scene:** Hannibal_3x05_Contorno.txt -  HANNIBAL (V.O.)
+**Error:** Formatting: Missing a line break after the dialogue.
+**Corrected Text:**
+                                   HANNIBAL (V.O.)                                  
+                         Firefly larvae devour many times                           
+                         their own body weight in snails.                           
+               MACRO SHOTS as the larvae still devour the snails, but PUPAE         
+               now dot the leaves. As we watch, adult FIREFLIES emerge from         
+               them and spread their new, wet wings... pause to rest.               
+
+**11. Episode and Scene:** Hannibal_3x05_Contorno.txt -  CUT TO:
+**Error:** Formatting: Missing a line break after the scene direction.
+**Corrected Text:**
+                                                               CUT TO:              
+
+**12. Episode and Scene:** Hannibal_3x05_Contorno.txt -  HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14       4.
+**Error:** Formatting: The page number "4." should be right-aligned.
+**Corrected Text:**
+          HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14          4.     
+
+**13. Episode and Scene:** Hannibal_3x05_Contorno.txt -  CAMERA reveals HANNIBAL approaching in nothing but pajama
+**Error:** Formatting: Missing a line break after the dialogue.
+**Corrected Text:**
+               CAMERA reveals HANNIBAL approaching in nothing but pajama            
+               bottoms, carrying two glasses of whiskey. He offers her one.         
+                                   HANNIBAL                                         
+                         Snails follow their nature as                              
+                         surely as those that eat them.                             
+
+**14. Episode and Scene:** Hannibal_3x05_Contorno.txt -  HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14       5.
+**Error:** Formatting: The page number "5." should be right-aligned.
+**Corrected Text:**
+          HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14          5.     
+
+**15. Episode and Scene:** Hannibal_3x05_Contorno.txt -  HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14       6.
+**Error:** Formatting: The page number "6." should be right-aligned.
+**Corrected Text:**
+          HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14          6.     
+
+**16. Episode and Scene:** Hannibal_3x05_Contorno.txt -  HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14       7.
+**Error:** Formatting: The page number "7." should be right-aligned.
+**Corrected Text:**
+          HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14          7.     
+
+**17. Episode and Scene:** Hannibal_3x05_Contorno.txt -  INSPECTOR PAZZI
+**Error:** Formatting: Missing a line break after the dialogue.
+**Corrected Text:**
+                                   INSPECTOR PAZZI                                  
+                         I have a young and lovely wife.                            
+                         Her efforts have ground twelve                             
+                         pounds off my frame.                                       
+
+**18. Episode and Scene:** Hannibal_3x05_Contorno.txt -  HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14       8.
+**Error:** Formatting: The page number "8." should be right-aligned.
+**Corrected Text:**
+          HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14          8.     
+
+**19. Episode and Scene:** Hannibal_3x05_Contorno.txt -  HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14       9.
+**Error:** Formatting: The page number "9." should be right-aligned.
+**Corrected Text:**
+          HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14          9.     
+
+**20. Episode and Scene:** Hannibal_3x05_Contorno.txt -  HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14       10.
+**Error:** Formatting: The page number "10." should be right-aligned.
+**Corrected Text:**
+         HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14         10.     
+
+**21. Episode and Scene:** Hannibal_3x05_Contorno.txt -  HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14       11.
+**Error:** Formatting: The page number "11." should be right-aligned.
+**Corrected Text:**
+         HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14         11.     
+
+**22. Episode and Scene:** Hannibal_3x05_Contorno.txt -  HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14       12.
+**Error:** Formatting: The page number "12." should be right-aligned.
+**Corrected Text:**
+         HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14         12.     
+
+**23. Episode and Scene:** Hannibal_3x05_Contorno.txt -  HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14       13.
+**Error:** Formatting: The page number "13." should be right-aligned.
+**Corrected Text:**
+         HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14         13.     
+
+**24. Episode and Scene:** Hannibal_3x05_Contorno.txt -  HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14       14.
+**Error:** Formatting: The page number "14." should be right-aligned.
+**Corrected Text:**
+         HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14         14.     
+
+**25. Episode and Scene:** Hannibal_3x05_Contorno.txt -  HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14       15.
+**Error:** Formatting: The page number "15." should be right-aligned.
+**Corrected Text:**
+         HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14         15.     
+
+**26. Episode and Scene:** Hannibal_3x05_Contorno.txt -  HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14       16.
+**Error:** Formatting: The page number "16." should be right-aligned.
+**Corrected Text:**
+         HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14         16.     
+
+**27. Episode and Scene:** Hannibal_3x05_Contorno.txt -  HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14       17.
+**Error:** Formatting: The page number "17." should be right-aligned.
+**Corrected Text:**
+         HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14         17.     
+
+**28. Episode and Scene:** Hannibal_3x05_Contorno.txt -  HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14       18.
+**Error:** Formatting: The page number "18." should be right-aligned.
+**Corrected Text:**
+         HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14         18.     
+
+**29. Episode and Scene:** Hannibal_3x05_Contorno.txt -  HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14       19.
+**Error:** Formatting: The page number "19." should be right-aligned.
+**Corrected Text:**
+         HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14         19.     
+
+**30. Episode and Scene:** Hannibal_3x05_Contorno.txt -  HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14       20.
+**Error:** Formatting: The page number "20." should be right-aligned.
+**Corrected Text:**
+         HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14         20.     
+
+**31. Episode and Scene:** Hannibal_3x05_Contorno.txt -  HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14       21.
+**Error:** Formatting: The page number "21." should be right-aligned.
+**Corrected Text:**
+         HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14         21.     
+
+**32. Episode and Scene:** Hannibal_3x05_Contorno.txt -  HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14       22.
+**Error:** Formatting: The page number "22." should be right-aligned.
+**Corrected Text:**
+         HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14         22.     
+
+**33. Episode and Scene:** Hannibal_3x05_Contorno.txt -  HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14       23.
+**Error:** Formatting: The page number "23." should be right-aligned.
+**Corrected Text:**
+         HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14         23.     
+
+**34. Episode and Scene:** Hannibal_3x05_Contorno.txt -  HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14       24.
+**Error:** Formatting: The page number "24." should be right-aligned.
+**Corrected Text:**
+         HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14         24.     
+
+**35. Episode and Scene:** Hannibal_3x05_Contorno.txt -  HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14       25.
+**Error:** Formatting: The page number "25." should be right-aligned.
+**Corrected Text:**
+         HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14         25.     
+
+**36. Episode and Scene:** Hannibal_3x05_Contorno.txt -  HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14       26.
+**Error:** Formatting: The page number "26." should be right-aligned.
+**Corrected Text:**
+         HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14         26.     
+
+**37. Episode and Scene:** Hannibal_3x05_Contorno.txt -  HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14       27.
+**Error:** Formatting: The page number "27." should be right-aligned.
+**Corrected Text:**
+         HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14         27.     
+
+**38. Episode and Scene:** Hannibal_3x05_Contorno.txt -  HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14       28.
+**Error:** Formatting: The page number "28." should be right-aligned.
+**Corrected Text:**
+         HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14         28.     
+
+**39. Episode and Scene:** Hannibal_3x05_Contorno.txt -  HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14       29.
+**Error:** Formatting: The page number "29." should be right-aligned.
+**Corrected Text:**
+         HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14         29.     
+
+**40. Episode and Scene:** Hannibal_3x05_Contorno.txt -  HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14       30.
+**Error:** Formatting: The page number "30." should be right-aligned.
+**Corrected Text:**
+         HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14         30.     
+
+**41. Episode and Scene:** Hannibal_3x05_Contorno.txt -  HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14       31.
+**Error:** Formatting: The page number "31." should be right-aligned.
+**Corrected Text:**
+         HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14         31.     
+
+**42. Episode and Scene:** Hannibal_3x05_Contorno.txt -  HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14       32.
+**Error:** Formatting: The page number "32." should be right-aligned.
+**Corrected Text:**
+         HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14         32.     
+
+**43. Episode and Scene:** Hannibal_3x05_Contorno.txt -  HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14       33.
+**Error:** Formatting: The page number "33." should be right-aligned.
+**Corrected Text:**
+         HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14         33.     
+
+**44. Episode and Scene:** Hannibal_3x05_Contorno.txt -  HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14       34.
+**Error:** Formatting: The page number "34." should be right-aligned.
+**Corrected Text:**
+         HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14         34.     
+
+**45. Episode and Scene:** Hannibal_3x05_Contorno.txt -  HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14       35.
+**Error:** Formatting: The page number "35." should be right-aligned.
+**Corrected Text:**
+         HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14         35.     
+
+**46. Episode and Scene:** Hannibal_3x05_Contorno.txt -  HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14       36.
+**Error:** Formatting: The page number "36." should be right-aligned.
+**Corrected Text:**
+         HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14         36.     
+
+**Validated and Corrected Text Segment:**
+
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                         HANNIBAL                                   
+                                        "Contorno"                                  
+                                                                                    
+                                          TEASER                                    
+                                                                                    
+               BLACK                                                                
+                                                                                    
+               After a moment, a single wisp of smoke rises through FRAME.          
+                                                                                    
+                                   CHIYOH (V.O.)                                    
+                         On still evenings, when the air was                        
+                         damp after a rain, we played a game.                       
+                                                          DISSOLVE TO:              
+                                                                                    
+               TRAIN TRACKS                                                         
+                                                                                    
+               Rails weave in a blur as the wood ties STROBE through FRAME.         
+               TRAIN CARS                                                           
+                                                                                    
+               Flashing past, glimpses of windows, all a blur. Through the          
+               rapidly-passing windows, flickers of passengers appearing            
+               intermittently, almost like a ZOETROPE, until SNAP --                
+                                                                                    
+               CAMERA LOCKS ON ONE WINDOW. Inside are WILL GRAHAM and               
+               CHIYOH bathed in the light of dusk.                                  
+                                                                                    
+
+=== INT. TRAIN - WILL GRAHAM'S SLEEPER CABIN - DUSK ===
+
+                                                                                    
+               They sit opposite one another in a sleeper cabin -- two              
+               chairs beside the window with a table, bunk beds and a small         
+               bathroom.  Old wood. A taste of a Europe from days gone by.          
+               The train's RATTLE and CLACK is a constant background.               
+                                   CHIYOH                                           
+                         Hannibal would burn all kinds of                           
+                         barks and incense for me to                                
+                         identify by scent alone.                                   
+                                                                                    
+                             (then)                                                 
+                         He was charming the way a cub is                           
+                         charming, a small cub that grows up                        
+                         to be like one of the big cats.                            
+                                                                                    
+                                   WILL GRAHAM                                      
+                         One you can't play with later.                             
+                                   CHIYOH                                           
+                         The day I met Hannibal, he was an                          
+                         orphan.  I was meant to meet him                           
+                         with his sister, but he was alone.                         
+                                                                                    
+                                   WILL GRAHAM                                      
+                         How did you meet him?                                      
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+          HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14          2.     
+                                                                                    
+                                   CHIYOH                                           
+                         I was his aunt's attendant. My                             
+                         parents sent me to learn from Lady                         
+                         Murasaki when I was just a girl. I                         
+                         learned from Hannibal, too. He had                         
+                         all the wisdom in miniature.                               
+                                                                                    
+                                   WILL GRAHAM                                      
+                         He comes in the guise of a mentor,                         
+                         but it's distress that excites him.                        
+                                                                                    
+                                   CHIYOH                                           
+                         I'm not in distress.                                       
+                                   WILL GRAHAM                                      
+                         Not anymore. You had a strict rule                         
+                         about taking life and you broke it.                        
+                         Is it on your mind? Do you see                             
+                         killing him over and over?                                 
+                                                                                    
+                                   CHIYOH                                           
+                         No.  I see you.                                            
+                             (then)                                                 
+                         How do you know Hannibal's in                              
+                         Florence?                                                  
+                                   WILL GRAHAM                                      
+                         Botticelli.                                                
+                                                                                    
+               Will hands her an Uffizi Gallery POSTCARD of the Primavera.          
+                                                                                    
+                                   CHIYOH                                           
+                         When we find him, I will have                              
+                         steady hands and a slow heart.                             
+                             (then)                                                 
+                         Will you?                                                  
+                                                                                    
+               Will offers a faint smile, glances out the window. She               
+               stares at him a moment, then glances outside herself.                
+                                   CHIYOH (CONT’D)                                  
+                             (re: the postcard)                                     
+                         I've never been to Italy. I never                          
+                         expected to. Birds eat thousands                           
+                         of snails every day. Some of those                         
+                         snails survive digestion and emerge                        
+                         to find they've traveled the world.                        
+                                   WILL GRAHAM                                      
+                         In the belly of the beast.                                 
+                                                                                    
+               Chiyoh stares at Will, then her attention drifts back to the         
+               window and the passing landscape. As CAMERA pushes through           
+               the window, the landscape is revealed to be...                       
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+          HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14          3.     
+                                                                                    
+               EXTREME CLOSE ON SNAIL SHELLS                                        
+                                                                                    
+               CAMERA moves over SNAILS moving along leaves until it finds:         
+                                                                                    
+               AN INDISTINCT SHAPE                                                  
+                                                                                    
+               It's attached to the green leaves the snails are eating.             
+               Something is moving beyond a membrane. The shape is alien and        
+               unnerving.  The membrane splits and the creature within              
+               emerges.  A brutal, biting head and a long body -- horrific.         
+                                                                                    
+               A FIREFLY LARVA                                                      
+               PULL OUT further to reveal it is one of many bursting forth          
+               from a CLUSTER OF EGGS clinging beneath a leaf.                      
+                                                                                    
+               The LARVAE immediately disperse amid the leaves.                     
+                                                                                    
+               WIDER                                                                
+                                                                                    
+               We see snails moving among the leaves.                               
+                                                                                    
+               WIDER                                                                
+                                                                                    
+               These are the leaves wrapped around the CAGED MAN (from Ep.          
+               #303), still suspended in the basement of --                         
+                                                                                    
+
+=== INT. CASTLE LECTER - BASEMENT - NIGHT ===
+
+                                                                                    
+               The larvae attack the snails, biting and dragging them from          
+               their shells. Eating the soft flesh within. All across the           
+               caged man's body, this attack is being repeated...                   
+                                                                                    
+                                   HANNIBAL (V.O.)                                  
+                         Firefly larvae devour many times                           
+                         their own body weight in snails.                           
+               MACRO SHOTS as the larvae still devour the snails, but PUPAE         
+               now dot the leaves. As we watch, adult FIREFLIES emerge from         
+               them and spread their new, wet wings... pause to rest.               
+                                                                                    
+                                   HANNIBAL (V.O.) (CONT’D)                         
+                         Fuel to power a transformation into                        
+                         a delicate creature of such beauty.                        
+                                                                                    
+                                                               CUT TO:              
+
+=== INT. HANNIBAL'S FLORENCE APARTMENT - LIVING ROOM - NIGHT ===
+
+                                                                                    
+               BEDELIA DU MAURIER, dressed in a beautiful silk robe, looking        
+               into the night.                                                      
+                                                                                    
+                                   BEDELIA DU MAURIER                               
+                         To the misfortune of the snail.                            
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+          HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14          4.     
+                                                                                    
+                                                                                    
+               CAMERA reveals HANNIBAL approaching in nothing but pajama            
+               bottoms, carrying two glasses of whiskey. He offers her one.         
+                                   HANNIBAL                                         
+                         Snails follow their nature as                              
+                         surely as those that eat them.                             
+                                                                                    
+                                   BEDELIA DU MAURIER                               
+                         Fireflies live very brief lives.                           
+                                   HANNIBAL                                         
+                         Better to live true to yourself for                        
+                         an instant than never know it.                             
+                                                                                    
+                                   BEDELIA DU MAURIER                               
+                         Fireflies don't question their                             
+                         nature.  Not like Will Graham does.                        
+                                   HANNIBAL                                         
+                         An insect lacks morality to agonize                        
+                         over.  Will agonizes about                                 
+                         inevitable change. His morality is                         
+                         reasoned from abstract principles,                         
+                         but his judgment comes instantly.                          
+                             (then)                                                 
+                         Or rather, it used to.                                     
+                                                                                    
+                                   BEDELIA DU MAURIER                               
+                         Almost anything can be trained to                          
+                         resist its instinct. A shepherd                            
+                         dog does not savage the sheep.                             
+                                   HANNIBAL                                         
+                         But it wants to. Will has reached                          
+                         a state of moral dumbfounding.                             
+                                                                                    
+                                   BEDELIA DU MAURIER                               
+                         Morality can be summed up in one                           
+                         rule: "Do unto others as you would                         
+                         have them do unto you."                                    
+                                   HANNIBAL                                         
+                         Empathy and reciprocity.                                   
+                                                                                    
+                                   BEDELIA DU MAURIER                               
+                         Reciprocity. If we keep track of                           
+                         incoming and outgoing intentions,                          
+                         Will Graham is en route to kill you                        
+                         while you lie in wait to kill him.                         
+                             (then)                                                 
+                         Now that's reciprocity.                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+          HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14          5.     
+                                                                                    
+                                                                                    
+
+=== INT. CASTLE LECTER - BASEMENT - NIGHT ===
+
+               The fireflies take flight around caged man and, slowly, each         
+               one begins to EMIT and the room gradually fills with a               
+               beautiful thousand points of light...                                
+                                                                                    
+                                                         CUT TO BLACK.              
+                                                                                    
+                                                                                    
+                                      END OF TEASER                                 
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+          HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14          6.     
+                                                                                    
+                                         ACT ONE                                    
+                                                                                    
+
+=== EXT. PONTE SANTA TRINITÀ - EARLY MORNING ===
+
+                                                                                    
+               The arch of the bridge is still quiet as we find JACK                
+               CRAWFORD moving across the span.                                     
+                                                                                    
+               CLOSE ON JACK                                                        
+                                                                                    
+               The splendor of ancient Florence around him.                         
+               The calm waters of the Arno reflecting the gaily-yellow              
+               buildings crowding either bank.                                      
+                                                                                    
+               Jack walks to the center of the bridge, the Arno River               
+               stretching in either direction. The Ponte Vecchio downriver          
+               from him.                                                            
+                                                                                    
+               We now see Jack carries an URN, and he rests it on the edge          
+               of the bridge.                                                       
+                                                                                    
+               Watches sunlight dance on the water. A wistful smile.                
+               And then Jack lifts the lid from the urn, dips in a hand and         
+               lifts out Bella's ashes.                                             
+                                                                                    
+               CLOSE -- as some escape on the light breeze. He leans out            
+               and drops them into the water. Watches as they dapple the            
+               surface and disappear.                                               
+                                                                                    
+               Another handful. And then another.  And then he tips the urn         
+               and the ashes fall in a sudden rush to the water below...            
+                                                                                    
+               ON JACK                                                              
+                                                                                    
+               As he releases Bella's remains to the sun-kissed waters.             
+               Ponders his hand stained with her ashes, then removes his            
+               wedding ring and tosses it into the river.                           
+               UNDERWATER                                                           
+                                                                                    
+               The wedding ring drifts away from CAMERA, into dark waters.          
+                                                                                    
+                                                          DISSOLVE TO:              
+               JACK CRAWFORD                                                        
+                                                                                    
+               He is lit by the glow of candles and warm lighting. We are --        
+                                                                                    
+
+=== INT. PAZZI'S APARTMENT - DINING ROOM - NIGHT ===
+
+                                                                                    
+               Jack sits at a table with PAZZI and his beautiful wife,              
+               ALLEGRA, in the midst of setting the table.                          
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+          HANNIBAL Ep. #305 "Contorno"      FINAL DRAFT       11/30/14          7.     
+                                                                                    
+                                                                                    
+               She notices Jack's ring finger and the depression above his          
+               knuckle.                                                             
+                                   ALLEGRA PAZZI                                    
+                         You've recently stopped wearing                            
+                         your wedding ring.                                         
+                                                                                    
+                                   JACK CRAWFORD                                    
+                         You've just started wearing yours.                         
+                                   INSPECTOR PAZZI                                  
+                         I have a young and lovely wife.
+

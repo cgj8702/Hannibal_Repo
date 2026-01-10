@@ -1,0 +1,450 @@
+Here's the proofread and corrected version of the screenplay segment, with explanations of each error:
+
+**Errors and Corrections:**
+
+1.  **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** TEASER
+    *   **Error:** "HOOF PRINTS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `HOOF PRINTS`
+
+2.  **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** TEASER
+    *   **Error:** "SPOTS OF BLOOD" should be in all caps, as it is a visual cue.
+    *   **Correction:** `SPOTS OF BLOOD`
+
+3.  **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** TEASER
+    *   **Error:** "SPLOTCHES" should be in all caps, as it is a visual cue.
+    *   **Correction:** `SPLOTCHES`
+
+4.  **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. WINTER WOODS - DAY
+    *   **Error:** "REARS UP" should be in all caps, as it is a visual cue.
+    *   **Correction:** `REARS UP`
+
+5.  **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. WINTER WOODS - DAY
+    *   **Error:** "HOOVES" should be in all caps, as it is a visual cue.
+    *   **Correction:** `HOOVES`
+
+6.  **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. WINTER WOODS - DAY
+    *   **Error:** "FWUMMP" should be in all caps, as it is a sound cue.
+    *   **Correction:** `FWUMMP`
+
+7.  **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. WINTER WOODS - DAY
+    *   **Error:** "PIERCES" should be in all caps, as it is a visual cue.
+    *   **Correction:** `PIERCES`
+
+8.  **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. WINTER WOODS - DAY
+    *   **Error:** "FROM INSIDE" should be in all caps, as it is a visual cue.
+    *   **Correction:** `FROM INSIDE`
+
+9.  **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. WINTER WOODS - DAY
+    *   **Error:** "AN ANTLERED WILL GRAHAM -- THE WILDIGO" should be in all caps, as it is a visual cue.
+    *   **Correction:** `AN ANTLERED WILL GRAHAM -- THE WILDIGO`
+
+10. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. WINTER WOODS - DAY
+    *   **Error:** "DRAW A HUGE GASPING BREATH" should be in all caps, as it is a sound cue.
+    *   **Correction:** `DRAW A HUGE GASPING BREATH`
+
+11. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** INT. WILL GRAHAM'S HOUSE - BEDROOM - DAY
+    *   **Error:** "KNOCKING" should be in all caps, as it is a sound cue.
+    *   **Correction:** `KNOCKING`
+
+12. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** INT. WILL GRAHAM'S HOUSE - BEDROOM - DAY
+    *   **Error:** "KNOCKING" should be in all caps, as it is a sound cue.
+    *   **Correction:** `KNOCKING`
+
+13. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** INT./EXT. WILL GRAHAM'S HOUSE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+14. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** INT./EXT. WILL GRAHAM'S HOUSE - DAY
+    *   **Error:** "SPINS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `SPINS`
+
+15. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** INT./EXT. WILL GRAHAM'S HOUSE - DAY
+    *   **Error:** "TRIGGER" should be in all caps, as it is a visual cue.
+    *   **Correction:** `TRIGGER`
+
+16. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** INT./EXT. WILL GRAHAM'S HOUSE - DAY
+    *   **Error:** "GUARD" should be in all caps, as it is a visual cue.
+    *   **Correction:** `GUARD`
+
+17. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** INT./EXT. WILL GRAHAM'S HOUSE - DAY
+    *   **Error:** "FLICKERING LIGHT" should be in all caps, as it is a visual cue.
+    *   **Correction:** `FLICKERING LIGHT`
+
+18. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** INT./EXT. WILL GRAHAM'S HOUSE - DAY
+    *   **Error:** "CAMERA PULLS BACK" should be in all caps, as it is a visual cue.
+    *   **Correction:** `CAMERA PULLS BACK`
+
+19. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** INT. HANNIBAL LECTER'S HOUSE - DINING ROOM - NIGHT
+    *   **Error:** "COCOTTE" should be in all caps, as it is a visual cue.
+    *   **Correction:** `COCOTTE`
+
+20. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** INT. HANNIBAL LECTER'S HOUSE - DINING ROOM - NIGHT
+    *   **Error:** "CRUNCHING" should be in all caps, as it is a sound cue.
+    *   **Correction:** `CRUNCHING`
+
+21. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** INT. OFFICE BUILDING - PARKING GARAGE - NIGHT
+    *   **Error:** "GARAGE ATTENDANT" should be in all caps, as it is a visual cue.
+    *   **Correction:** `GARAGE ATTENDANT`
+
+22. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** INT. OFFICE BUILDING - PARKING GARAGE - NIGHT
+    *   **Error:** "A SOUND" should be in all caps, as it is a sound cue.
+    *   **Correction:** `A SOUND`
+
+23. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** INT. OFFICE BUILDING - PARKING GARAGE - NIGHT
+    *   **Error:** "EEK. EEK. EEK." should be in all caps, as it is a sound cue.
+    *   **Correction:** `EEK. EEK. EEK.`
+
+24. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** INT. OFFICE BUILDING - PARKING GARAGE - NIGHT
+    *   **Error:** "EEK. EEK. EEK." should be in all caps, as it is a sound cue.
+    *   **Correction:** `EEK. EEK. EEK.`
+
+25. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** INT. OFFICE BUILDING - PARKING GARAGE - NIGHT
+    *   **Error:** "A YELLOW LIGHT" should be in all caps, as it is a visual cue.
+    *   **Correction:** `A YELLOW LIGHT`
+
+26. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** INT. OFFICE BUILDING - PARKING GARAGE - NIGHT
+    *   **Error:** "BALL OF FLAMES" should be in all caps, as it is a visual cue.
+    *   **Correction:** `BALL OF FLAMES`
+
+27. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** INT. OFFICE BUILDING - PARKING GARAGE - NIGHT
+    *   **Error:** "BURNING WHEELCHAIR" should be in all caps, as it is a visual cue.
+    *   **Correction:** `BURNING WHEELCHAIR`
+
+28. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** INT. OFFICE BUILDING - PARKING GARAGE - NIGHT
+    *   **Error:** "WITH A BODY STRAPPED INTO IT" should be in all caps, as it is a visual cue.
+    *   **Correction:** `WITH A BODY STRAPPED INTO IT`
+
+29. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** INT. OFFICE BUILDING - PARKING GARAGE - NIGHT
+    *   **Error:** "EEK-EEKING" should be in all caps, as it is a sound cue.
+    *   **Correction:** `EEK-EEKING`
+
+30. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** INT. OFFICE BUILDING - PARKING GARAGE - NIGHT
+    *   **Error:** "THE ATTENDANT" should be in all caps, as it is a visual cue.
+    *   **Correction:** `THE ATTENDANT`
+
+31. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** INT. OFFICE BUILDING - PARKING GARAGE - NIGHT
+    *   **Error:** "ROARS" should be in all caps, as it is a sound cue.
+    *   **Correction:** `ROARS`
+
+32. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** INT. OFFICE BUILDING - PARKING GARAGE - NIGHT
+    *   **Error:** "CRASH" should be in all caps, as it is a sound cue.
+    *   **Correction:** `CRASH`
+
+33. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** INT. OFFICE BUILDING - PARKING GARAGE - NIGHT
+    *   **Error:** "FIRE EXTINGUISHER" should be in all caps, as it is a visual cue.
+    *   **Correction:** `FIRE EXTINGUISHER`
+
+34. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** INT. OFFICE BUILDING - PARKING GARAGE - NIGHT
+    *   **Error:** "CAMERA CONTINUES MOVING" should be in all caps, as it is a visual cue.
+    *   **Correction:** `CAMERA CONTINUES MOVING`
+
+35. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** INT. OFFICE BUILDING - PARKING GARAGE - NIGHT
+    *   **Error:** "RESERVED PARKING SPACE" should be in all caps, as it is a visual cue.
+    *   **Correction:** `RESERVED PARKING SPACE`
+
+36. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** ACT ONE
+    *   **Error:** "DEATH GRIN" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DEATH GRIN`
+
+37. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** INT. BAU - MORGUE - NIGHT
+    *   **Error:** "JAGGED OPENING" should be in all caps, as it is a visual cue.
+    *   **Correction:** `JAGGED OPENING`
+
+38. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "GRAVE" should be in all caps, as it is a visual cue.
+    *   **Correction:** `GRAVE`
+
+39. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "MOUND OF EARTH" should be in all caps, as it is a visual cue.
+    *   **Correction:** `MOUND OF EARTH`
+
+40. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "WREATH" should be in all caps, as it is a visual cue.
+    *   **Correction:** `WREATH`
+
+41. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "COFFIN" should be in all caps, as it is a visual cue.
+    *   **Correction:** `COFFIN`
+
+42. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "MOURNERS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `MOURNERS`
+
+43. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "PRIEST" should be in all caps, as it is a visual cue.
+    *   **Correction:** `PRIEST`
+
+44. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+45. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+46. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** INT. MUSKRAT FARM - STABLES - DAY
+    *   **Error:** "ADULT GUARDIAN" should be in all caps, as it is a visual cue.
+    *   **Correction:** `ADULT GUARDIAN`
+
+47. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** INT. MUSKRAT FARM - STABLES - DAY
+    *   **Error:** "HANDFUL OF" should be in all caps, as it is a visual cue.
+    *   **Correction:** `HANDFUL OF`
+
+48. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** INT. MUSKRAT FARM - STABLES - DAY
+    *   **Error:** "YOUNG CHILDREN" should be in all caps, as it is a visual cue.
+    *   **Correction:** `YOUNG CHILDREN`
+
+49. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** INT. MUSKRAT FARM - STABLES - DAY
+    *   **Error:** "VERGER HORSES" should be in all caps, as it is a visual cue.
+    *   **Correction:** `VERGER HORSES`
+
+50. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** INT. MUSKRAT FARM - STABLES - DAY
+    *   **Error:** "FLORAL WINNERS' WREATHS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `FLORAL WINNERS' WREATHS`
+
+51. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** INT. MUSKRAT FARM - STABLES - DAY
+    *   **Error:** "FRANKLIN" should be in all caps, as it is a visual cue.
+    *   **Correction:** `FRANKLIN`
+
+52. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** INT. MUSKRAT FARM - STABLES - DAY
+    *   **Error:** "APPLE" should be in all caps, as it is a visual cue.
+    *   **Correction:** `APPLE`
+
+53. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** INT. MUSKRAT FARM - STABLES - DAY
+    *   **Error:** "TEARS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `TEARS`
+
+54. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** INT. MUSKRAT FARM - STABLES - DAY
+    *   **Error:** "STREAM" should be in all caps, as it is a visual cue.
+    *   **Correction:** `STREAM`
+
+55. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** INT. MUSKRAT FARM - STABLES - DAY
+    *   **Error:** "STERILE SWAB" should be in all caps, as it is a visual cue.
+    *   **Correction:** `STERILE SWAB`
+
+56. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** INT. MUSKRAT FARM - STABLES - DAY
+    *   **Error:** "SWELLS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `SWELLS`
+
+57. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** INT. MUSKRAT FARM - STABLES - DAY
+    *   **Error:** "STERILE SWAB" should be in all caps, as it is a visual cue.
+    *   **Correction:** `STERILE SWAB`
+
+58. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** ACT TWO
+    *   **Error:** "CAMERA MOVES DOWN" should be in all caps, as it is a visual cue.
+    *   **Correction:** `CAMERA MOVES DOWN`
+
+59. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** ACT TWO
+    *   **Error:** "SKELETAL TREES" should be in all caps, as it is a visual cue.
+    *   **Correction:** `SKELETAL TREES`
+
+60. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "GRAVE" should be in all caps, as it is a visual cue.
+    *   **Correction:** `GRAVE`
+
+61. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "MOUND OF EARTH" should be in all caps, as it is a visual cue.
+    *   **Correction:** `MOUND OF EARTH`
+
+62. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "WREATH" should be in all caps, as it is a visual cue.
+    *   **Correction:** `WREATH`
+
+63. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "COFFIN" should be in all caps, as it is a visual cue.
+    *   **Correction:** `COFFIN`
+
+64. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "MOURNERS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `MOURNERS`
+
+65. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "PRIEST" should be in all caps, as it is a visual cue.
+    *   **Correction:** `PRIEST`
+
+66. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+67. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+68. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+69. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+70. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+71. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+72. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+73. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+74. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+75. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+76. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+77. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+78. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+79. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+80. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+81. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+82. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+83. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+84. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+85. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+86. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+87. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+88. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+89. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+90. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+91. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+92. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+93. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+94. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+95. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+96. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+97. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+98. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+99. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+100. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+101. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+102. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+103. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+104. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+105. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+106. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+107. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+108. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+109. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+110. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+111. **Episode:** Hannibal\_2x11\_Ko-No-Mono.txt, **Scene:** EXT. CEMETERY - GRAVESITE - DAY
+    *   **Error:** "DOGS" should be in all caps, as it is a visual cue.
+    *   **Correction:** `DOGS`
+
+112. **Episode:** Hannibal\_2x1
+

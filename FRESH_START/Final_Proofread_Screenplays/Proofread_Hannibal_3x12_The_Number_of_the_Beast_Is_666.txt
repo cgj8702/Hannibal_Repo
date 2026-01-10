@@ -1,0 +1,356 @@
+PULL OUT to reveal it is placed in MOLLY's eye.
+
+2.  **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** TEASER
+    **Error:** "GO WIDE" is missing a period.
+    **Corrected Text:** GO WIDE.
+
+3.  **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** TEASER
+    **Error:** "THE FRAME is now filled with Blake's The Great Red Dragon and" There is a missing comma after "Dragon".
+    **Corrected Text:** THE FRAME is now filled with Blake's The Great Red Dragon, and
+
+4.  **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** TEASER
+    **Error:** "PUSH IN CLOSER and CLOSER until we see Will reflected in the" The capitalization of "CLOSER" is inconsistent with standard screenplay formatting.
+    **Corrected Text:** PUSH IN closer and closer until we see Will reflected in the
+
+5.  **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** TEASER
+    **Error:** "And then we REVERSE to --" The capitalization of "REVERSE" is inconsistent with standard screenplay formatting.
+    **Corrected Text:** And then we reverse to --
+
+6.  **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The scene heading is missing a question mark.
+    **Corrected Text:** === ? INT. BEDELIA'S HOME OFFICE - DAY ===
+
+7.  **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 2." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+8.  **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 3." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+9.  **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 4." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+10. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 5." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+11. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 6." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+12. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 7." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+13. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 8." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+14. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 9." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+15. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 10." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+16. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 11." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+17. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 12." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+18. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 13." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+19. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 14." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+20. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 15." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+21. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 16." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+22. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 17." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+23. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 18." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+24. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 19." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+25. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 20." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+26. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 21." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+27. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 22." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+28. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 23." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+29. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 24." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+30. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 25." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+31. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 26." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+32. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 27." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+33. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 28." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+34. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 29." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+35. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 30." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+36. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 31." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+37. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 32." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+38. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 33." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+39. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 34." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+40. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 35." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+41. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 36." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+42. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 37." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+43. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 38." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+44. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 39." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+45. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 40." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+46. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 41." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+47. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 42." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+48. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 43." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+49. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 44." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+50. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 45." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+51. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 46." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+52. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 47." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+53. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 48." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+54. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 49." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+55. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 50." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+56. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 51." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+57. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 52." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+58. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 53." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+59. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 54." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+60. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 55." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+61. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 56." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+62. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 57." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+63. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 58." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+64. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 59." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+65. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 60." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+66. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 61." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+67. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 62." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+68. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 63." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+69. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 64." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+70. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 65." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+71. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANNIBAL Ep. #312 "...the Beast Is 666" FINAL DRAFT 04/08/15 66." is not properly formatted. It should not be in the middle of the scene.
+    **Corrected Text:** (Removed)
+
+72. **Episode:** Hannibal\_3x12\_The\_Number\_of\_the\_Beast\_Is\_666.txt
+    **Scene:** INT. BEDELIA'S HOME OFFICE - DAY
+    **Error:** The line "HANN
+

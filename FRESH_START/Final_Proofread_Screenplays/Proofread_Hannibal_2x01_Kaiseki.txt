@@ -1,0 +1,714 @@
+Here's the proofread and corrected version of the screenplay segment, with explanations of each error:
+
+**Errors and Corrections:**
+
+1.  **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** TEASER
+    **Error:** Formatting inconsistency. The word "EXTREME" is in all caps, but the rest of the line is not.
+    **Correction:**
+    EXTREME CLOSE ON A KNIFE BLADE
+
+2.  **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** TEASER
+    **Error:** Typo. "RHYTHMIC" should be capitalized, as it is a sound cue.
+    **Correction:**
+    RHYTHMIC
+
+3.  **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** TEASER
+    **Error:** Typo. "CHOP-CHOP-CHOP-CHOP-CHOP" should be capitalized, as it is a sound cue.
+    **Correction:**
+    CHOP-CHOP-CHOP-CHOP-CHOP
+
+4.  **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. HANNIBAL LECTER’S HOUSE - KITCHEN - NIGHT
+    **Error:** Typo. "RHYTHMIC" should be capitalized, as it is a sound cue.
+    **Correction:**
+    RHYTHMIC
+
+5.  **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. HANNIBAL LECTER’S HOUSE - KITCHEN - NIGHT
+    **Error:** Typo. "SHLUCK" should be capitalized, as it is a sound cue.
+    **Correction:**
+    SHLUCK
+
+6.  **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** HANNIBAL Ep. #201 "Kaiseki" FINAL DRAFT 09/21/13
+    **Error:** Formatting. The number "2." is not properly formatted.
+    **Correction:**
+    HANNIBAL Ep. #201 "Kaiseki" FINAL DRAFT 09/21/13 2.
+
+7.  **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** HANNIBAL Ep. #201 "Kaiseki" FINAL DRAFT 09/21/13
+    **Error:** Formatting. The number "3." is not properly formatted.
+    **Correction:**
+    HANNIBAL Ep. #201 "Kaiseki" FINAL DRAFT 09/21/13 3.
+
+8.  **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** HANNIBAL Ep. #201 "Kaiseki" FINAL DRAFT 09/21/13
+    **Error:** Formatting. The number "4." is not properly formatted.
+    **Correction:**
+    HANNIBAL Ep. #201 "Kaiseki" FINAL DRAFT 09/21/13 4.
+
+9.  **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** HANNIBAL Ep. #201 "Kaiseki" FINAL DRAFT 09/21/13
+    **Error:** Formatting. The number "5." is not properly formatted.
+    **Correction:**
+    HANNIBAL Ep. #201 "Kaiseki" FINAL DRAFT 09/21/13 5.
+
+10. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** EXT. RIVER - DAY
+    **Error:** Typo. "RHYTHMIC" should be capitalized, as it is a sound cue.
+    **Correction:**
+    RHYTHMIC
+
+11. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** EXT. RIVER - DAY
+    **Error:** Typo. "RHYTHMIC" should be capitalized, as it is a sound cue.
+    **Correction:**
+    RHYTHMIC
+
+12. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - THERAPY HALL - DAY
+    **Error:** Typo. "MOS" should be capitalized, as it is a sound cue.
+    **Correction:**
+    MOS
+
+13. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - THERAPY HALL - DAY
+    **Error:** Typo. "RHYTHMIC" should be capitalized, as it is a sound cue.
+    **Correction:**
+    RHYTHMIC
+
+14. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - THERAPY HALL - DAY
+    **Error:** Typo. "RHYTHMIC" should be capitalized, as it is a sound cue.
+    **Correction:**
+    RHYTHMIC
+
+15. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - THERAPY HALL - DAY
+    **Error:** Typo. "SHARD" should be capitalized, as it is a sound cue.
+    **Correction:**
+    SHARD
+
+16. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. FBI - CORRIDOR - ON JACK CRAWFORD'S BACK
+    **Error:** Formatting. The word "GO" is in all caps, but the rest of the line is not.
+    **Correction:**
+    GO WIDER to reveal ALANA BLOOM, stern, is next to Jack.
+
+17. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - WILL GRAHAM’S CELL - DAY
+    **Error:** Typo. "GATE" should be capitalized, as it is a sound cue.
+    **Correction:**
+    GATE
+
+18. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - WILL GRAHAM’S CELL - DAY
+    **Error:** Typo. "CLICK" should be capitalized, as it is a sound cue.
+    **Correction:**
+    CLICK
+
+19. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - WILL GRAHAM’S CELL - DAY
+    **Error:** Typo. "SHADOW" should be capitalized, as it is a sound cue.
+    **Correction:**
+    SHADOW
+
+20. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - DAY
+    **Error:** Typo. "PWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    PWUM
+
+21. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. HANNIBAL LECTER'S HOUSE - DINING ROOM - NIGHT
+    **Error:** Typo. "PWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    PWUM
+
+22. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. HANNIBAL LECTER'S HOUSE - DINING ROOM - NIGHT
+    **Error:** Typo. "PWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    PWUM
+
+23. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. HANNIBAL LECTER'S HOUSE - DINING ROOM - NIGHT
+    **Error:** Typo. "PWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    PWUM
+
+24. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. HANNIBAL LECTER'S HOUSE - DINING ROOM - NIGHT
+    **Error:** Typo. "PWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    PWUM
+
+25. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. HANNIBAL LECTER'S HOUSE - DINING ROOM - NIGHT
+    **Error:** Typo. "PWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    PWUM
+
+26. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. HANNIBAL LECTER'S HOUSE - DINING ROOM - NIGHT
+    **Error:** Typo. "PWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    PWUM
+
+27. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. HANNIBAL LECTER'S HOUSE - DINING ROOM - NIGHT
+    **Error:** Typo. "PWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    PWUM
+
+28. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BAU - EVIDENCE PROCESSING - DAY
+    **Error:** Typo. "GARMENT" should be capitalized, as it is a sound cue.
+    **Correction:**
+    GARMENT
+
+29. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** EXT. RIVER - DAY
+    **Error:** Typo. "CRIME" should be capitalized, as it is a sound cue.
+    **Correction:**
+    CRIME
+
+30. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** EXT. RIVER - DAY
+    **Error:** Typo. "BRIAN" should be capitalized, as it is a sound cue.
+    **Correction:**
+    BRIAN
+
+31. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** EXT. RIVER - DAY
+    **Error:** Typo. "THREE" should be capitalized, as it is a sound cue.
+    **Correction:**
+    THREE
+
+32. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - WILL GRAHAM’S CELL - DAY
+    **Error:** Typo. "GATE" should be capitalized, as it is a sound cue.
+    **Correction:**
+    GATE
+
+33. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - WILL GRAHAM’S CELL - DAY
+    **Error:** Typo. "MORE" should be capitalized, as it is a sound cue.
+    **Correction:**
+    MORE
+
+34. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. WILL GRAHAM’S HOUSE - DAY
+    **Error:** Typo. "TIME" should be capitalized, as it is a sound cue.
+    **Correction:**
+    TIME
+
+35. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+36. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+37. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+38. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+39. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+40. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+41. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+42. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+43. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+44. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+45. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+46. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+47. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+48. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+49. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+50. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+51. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+52. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+53. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+54. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+55. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+56. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+57. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+58. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+59. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+60. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+61. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+62. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+63. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+64. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+65. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+66. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+67. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+68. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+69. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+70. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+71. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+72. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+73. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+74. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+75. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+76. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+77. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+78. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+79. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+80. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+81. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+82. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+83. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+84. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+85. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+86. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+87. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+88. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+89. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+90. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+91. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+92. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+93. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+94. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+95. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+96. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+97. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+98. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+99. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+100. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+101. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+102. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+103. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+104. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+105. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+106. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+107. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+108. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+109. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+110. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+111. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+112. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+113. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+114. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+115. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+116. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+117. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+118. **Episode:** Hannibal\_2x01\_Kaiseki.txt
+    **Scene:** INT. BSHCI - PRIVACY ROOM - NIGHT
+    **Error:** Typo. "FWUM" should be capitalized, as it is a sound cue.
+    **Correction:**
+    FWUM
+
+
+
