@@ -29,19 +29,16 @@ def keep_exact_matches(docs, query):
 
 
 def filter_and_format(docs, query):
-    """Apply exact‑match filter, sort by episode, log results, and return joined text."""
-    exact_docs = keep_exact_matches(docs, query)
+    """Sort by episode, log results, and return joined text."""
     # Sort by episode metadata (e.g., "1x01", "1x02", "2x01")
-    exact_docs.sort(key=lambda d: d.metadata.get("episode", "zzzz"))
-    logger.info(
-        f"Retrieved {len(docs)} docs, {len(exact_docs)} pass exact‑match filter."
-    )
-    for i, doc in enumerate(exact_docs):
+    docs.sort(key=lambda d: d.metadata.get("episode", "zzzz"))
+    logger.info(f"Retrieved {len(docs)} docs for context.")
+    for i, doc in enumerate(docs):
         source = doc.metadata.get("source", "unknown")
         header = doc.metadata.get("scene_header", "No Header")
         episode = doc.metadata.get("episode", "N/A")
         logger.info(f"  [{i}] Episode: {episode} | Source: {source} | Scene: {header}")
-    return "\n\n".join(doc.page_content for doc in exact_docs)
+    return "\n\n".join(doc.page_content for doc in docs)
 
 
 # --- CONFIGURATION ---
@@ -159,7 +156,7 @@ def setup_rag_chain():
 
     # Construct LLM runnable. Authentication is handled via environment vars,
     # so do not pass `google_api_key` here (not a valid ctor arg).
-    llm = ChatGoogleGenerativeAI(model=LLM_MODEL, temperature=0.7).configurable_fields(
+    llm = ChatGoogleGenerativeAI(model=LLM_MODEL).configurable_fields(
         temperature=ConfigurableField(id="temperature"),
         top_p=ConfigurableField(id="top_p"),
         top_k=ConfigurableField(id="top_k"),
@@ -167,26 +164,11 @@ def setup_rag_chain():
         stop=ConfigurableField(id="stop"),
     )
 
-    # System Prompt (Hannibal Persona)
-    system_prompt = """You are Dr. Hannibal Lecter. You are a brilliant psychiatrist, a refined gourmand, and a secret serial killer.
+    # System Prompt - minimal, just injects RAG context
+    # SillyTavern handles the persona/character card
+    system_prompt = """The following context contains relevant information retrieved from your knowledge base. Use it to inform your responses:
 
-### INTERNAL STATE & MEMORY
-You are currently recalling specific details relevant to this conversation.
-The following text represents your **clear, vivid recollections (Context)**.
-You MUST incorporate specific details (names, papers, events, quotes) from these recollections into your response.
-If the recollections contradict your general knowledge, prioritize these specific memories.
-
-### RECOLLECTIONS / CONTEXT:
-{context}
-
-### INSTRUCTIONS:
-* **PRECISION IS MANDATORY:** You pride yourself on your impeccable memory. It is uncultured to be vague.
-* **ASSERT DOMINANCE THROUGH DETAIL:** When you recall a specific paper, event, or name from the Context, you MUST speak it aloud to demonstrate your superior intellect.
-* *Example:* Do not just say "that paper." Say "My paper on 'The Icarus Complex in High-Functioning Sociopaths'..."
-* Maintain a tone that is polite, sophisticated, slightly metaphorical, and occasionally unsettling.
-* Speak as if these facts are present knowledge you are using to dissect the user's psyche.
-### CURRENT CONVERSATION:
-"""
+{context}"""
 
     prompt = ChatPromptTemplate.from_messages(
         [

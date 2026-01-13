@@ -2,15 +2,15 @@
   {
     "name": "Exact-match quote (episode 1)",
     "status_code": 200,
-    "duration": 2.0690581798553467,
+    "duration": 7.929410457611084,
     "response": {
-      "id": "cmpl-1768337802",
+      "id": "cmpl-1768343712",
       "object": "text_completion",
-      "created": 1768337802,
+      "created": 1768343712,
       "model": "Hannibal-RAG",
       "choices": [
         {
-          "text": "Ah, the inaugural dinner party. A most *delicious* memory.\n\nIndeed, the quote you seek from that evening, as I recall it with perfect clarity, is this: \"Before we begin, you must all be warned: Nothing here is vegetarian.\" A simple declaration, yet it sets the tone for the evening, does it not? A delightful overture to the courses to come.",
+          "text": "Ah, a simple request. I am happy to oblige.\n\nThe quote you seek, from the first episode, is: \"Before we begin, you must all be warned: Nothing here is vegetarian.\"\n\nA rather *direct* statement, wouldn't you agree? It sets the tone, the *flavor*, of the evening, does it not? One must always be certain of their guests' preferences, of course. I recall a particularly amusing incident, later on, with Miss Lounds. *That* was an interesting power dynamic.",
           "index": 0,
           "finish_reason": "stop"
         }
@@ -25,15 +25,15 @@
   {
     "name": "Case-insensitive match",
     "status_code": 200,
-    "duration": 2.2500498294830322,
+    "duration": 8.007593393325806,
     "response": {
-      "id": "cmpl-1768337804",
+      "id": "cmpl-1768343720",
       "object": "text_completion",
-      "created": 1768337804,
+      "created": 1768343720,
       "model": "Hannibal-RAG",
       "choices": [
         {
-          "text": "Ah, a curious inquiry. Let's see what the available data reveals. *My* memory, of course, is quite precise.\n\nThe sentence containing the word \"vegetarian\" is: \"I feel terrible, Miss Lounds. Never entered my head you might be a vegetarian. A lapse on my behalf.\"\n\nA lapse, indeed. One must always be mindful of the preferences, or lack thereof, of one's guests. It is, after all, the smallest of details that can truly elevate an experience. As I once said to my guests at that particular soiree, \"Before we begin, you must all be warned: Nothing here is vegetarian.\"",
+          "text": "Ah, an inquiry into dietary preferences. A fascinating window into the soul, wouldn't you agree?\n\nLet's see... *I feel terrible, Miss Lounds. Never entered my head you might be a vegetarian. A lapse on my behalf.* Indeed, a lapse in consideration. One must always be mindful of the... *sensibilities* of one's guests. Though, as I recall, Miss Lounds's... *preferences*... were rather quickly, and perhaps conveniently, reconsidered.",
           "index": 0,
           "finish_reason": "stop"
         }
@@ -48,15 +48,15 @@
   {
     "name": "Missing-term fallback",
     "status_code": 200,
-    "duration": 2.1528420448303223,
+    "duration": 7.050973892211914,
     "response": {
-      "id": "cmpl-1768337807",
+      "id": "cmpl-1768343727",
       "object": "text_completion",
-      "created": 1768337807,
+      "created": 1768343727,
       "model": "Hannibal-RAG",
       "choices": [
         {
-          "text": "Ah, a fascinating exercise in linguistic precision. Let us see...\n\nThe word \"spaceship\" is not present in my current recollections.\n\nInstead, I am privy to the following:\n\n*   **INT. WOODED HOUSE - KITCHEN - NIGHT**\n*   **INT. HOSPITAL - CORRIDOR - NIGHT**\n\nA rather stark juxtaposition, wouldn't you agree? The rustic simplicity of the wooded house, juxtaposed with the sterile, imposing nature of the hospital. Tell me, what does this contrast evoke within *you*?",
+          "text": "NOT FOUND\nINT. JACK CRAWFORD’S HOUSE - BEDROOM - NIGHT\nINT. WOODED HOUSE - KITCHEN - NIGHT",
           "index": 0,
           "finish_reason": "stop"
         }
@@ -71,15 +71,15 @@
   {
     "name": "List scene headers",
     "status_code": 200,
-    "duration": 1.7103307247161865,
+    "duration": 13.519355297088623,
     "response": {
-      "id": "cmpl-1768337808",
+      "id": "cmpl-1768343741",
       "object": "text_completion",
-      "created": 1768337808,
+      "created": 1768343741,
       "model": "Hannibal-RAG",
       "choices": [
         {
-          "text": "Ah, a rather straightforward exercise, wouldn't you agree? I find such simple tasks... refreshing. Here are the scenes, meticulously cataloged, as you requested:\n\n*   episode: EXT. WILL GRAHAM'S HOUSE - NIGHT\n*   episode: EXT. HANNIBAL'S FLORENCE APARTMENT - BALCONY - DAY",
+          "text": "Ah, a rather clinical request, but I find myself compelled to indulge your curiosity. My memory, you see, is a finely honed instrument. It allows me to recall such details with... precision. Here are the scene headers you requested, each paired with its episode metadata:\n\n*   EP. 101: EXT. FIELD - DREAMSCAPE - NIGHT\n*   EP. 101: EXT. WILL GRAHAM'S HOUSE - NIGHT\n*   EP. 101: INT. BEDELIA’S HOUSE - BATHROOM/BEDROOM - DAY (FLASHBACK)\n*   EP. 101: EXT. HANNIBAL'S FLORENCE APARTMENT - BALCONY - DAY\n*   EP. 101: INT. HOSPITAL - CORRIDOR - NIGHT",
           "index": 0,
           "finish_reason": "stop"
         }

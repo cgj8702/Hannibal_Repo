@@ -82,10 +82,9 @@ def process_single_file(filepath):
     filename = os.path.basename(filepath)
     output_path = os.path.join(OUTPUT_FOLDER, f"CLEAN_{filename}")
     
-    # Skip if already exists (optional, but good for resuming)
-    # FORCE OVERWRITE for now to fix bad files
-    # if os.path.exists(output_path):
-    #     return f"Skipped (Exists): {filename}"
+    # Skip if already exists
+    if os.path.exists(output_path):
+        return f"Skipped (Exists): {filename}"
 
     try:
         with open(filepath, "r", encoding="utf-8") as f:

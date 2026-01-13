@@ -102,6 +102,8 @@ def http_post_factory(base_url: str):
             j = {"text": r.text}
         return {"status_code": r.status_code, "json": j}
 
+    return post
+
 
 def main():
     parser = argparse.ArgumentParser(
