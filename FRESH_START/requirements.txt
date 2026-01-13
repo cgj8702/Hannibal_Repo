@@ -2,11 +2,9 @@ pypdf
 pdfplumber
 tqdm
 google-genai
-google-generativeai
 google-cloud-storage
 google-cloud-aiplatform
 google-auth
-vertex-ai
 langchain
 langchain-core
 langchain-google-genai
