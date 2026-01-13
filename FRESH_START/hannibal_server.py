@@ -9,7 +9,12 @@ from contextlib import asynccontextmanager
 from langchain_community.vectorstores import FAISS
 import re
 from langchain_google_genai import GoogleGenerativeAIEmbeddings, ChatGoogleGenerativeAI
-from langchain_core.runnables import RunnablePassthrough, ConfigurableField
+from langchain_core.runnables import (
+    RunnablePassthrough,
+    ConfigurableField,
+    ensure_config,
+    RunnableConfig,
+)
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_core.messages import HumanMessage, AIMessage, SystemMessage
@@ -87,6 +92,8 @@ async def root():
 
 # Global variables
 rag_chain = None
+retriever = None
+vectorstore = None
 
 
 # --- Pydantic Models for OpenAI API ---
@@ -134,19 +141,25 @@ def setup_rag_chain():
         logger.error(f"CRITICAL ERROR: Vector DB not found at {FAISS_INDEX_DIR}")
         return None
 
-    embeddings = GoogleGenerativeAIEmbeddings(
-        model=EMBEDDING_MODEL, google_api_key=api_key
-    )
-    vectorstore = FAISS.load_local(
+    # The Google API key is read from the environment by the client library;
+    # avoid passing an unknown keyword argument into the embeddings constructor.
+    embeddings = GoogleGenerativeAIEmbeddings(model=EMBEDDING_MODEL)
+    vs = FAISS.load_local(
         FAISS_INDEX_DIR, embeddings, allow_dangerous_deserialization=True
     )
-    retriever = vectorstore.as_retriever(
-        search_kwargs={"k": 2}
-    )  # Reduced from 5 for faster responses
+    # expose vectorstore for diagnostics
+    global vectorstore
+    vectorstore = vs
+    retriever_local = vs.as_retriever(
+        search_kwargs={"k": 5}
+    )  # Increased to 5 to match retrieval depth used in tests
+    # expose retriever for diagnostics/logging
+    global retriever
+    retriever = retriever_local
 
-    llm = ChatGoogleGenerativeAI(
-        model=LLM_MODEL, google_api_key=api_key, temperature=0.7
-    ).configurable_fields(
+    # Construct LLM runnable. Authentication is handled via environment vars,
+    # so do not pass `google_api_key` here (not a valid ctor arg).
+    llm = ChatGoogleGenerativeAI(model=LLM_MODEL, temperature=0.7).configurable_fields(
         temperature=ConfigurableField(id="temperature"),
         top_p=ConfigurableField(id="top_p"),
         top_k=ConfigurableField(id="top_k"),
@@ -188,7 +201,7 @@ If the recollections contradict your general knowledge, prioritize these specifi
     rag_chain = (
         RunnablePassthrough.assign(
             query=lambda x: x["input"],
-            context=(lambda x: x["input"]) | retriever,
+            context=(lambda x: x["input"]) | retriever_local,
         )
         | (
             lambda x: {
@@ -208,8 +221,14 @@ If the recollections contradict your general knowledge, prioritize these specifi
 # --- API Endpoints ---
 
 
-def get_config(request):
-    config = {"configurable": {}}
+def get_config(request) -> RunnableConfig:
+    # Build a RunnableConfig dict explicitly so it matches the expected
+    # TypedDict shape used by the `Runnable` APIs.
+    config: RunnableConfig = {
+        "configurable": {},
+        "tags": [],
+        "metadata": {},
+    }
     if request.temperature is not None:
         config["configurable"]["temperature"] = request.temperature
     if request.top_p is not None:
@@ -225,7 +244,8 @@ def get_config(request):
         else:
             # Gemini supports max 5 sequences
             config["configurable"]["stop"] = request.stop[:5]
-    return config
+    # Return an ensured RunnableConfig (fills defaults)
+    return ensure_config(config)
 
 
 @app.get("/v1/models")
@@ -251,31 +271,59 @@ async def chat_completions(request: ChatCompletionRequest):
 
     try:
         # 1. Parse Messages
-        # Extract the last message as the query input
         user_input = request.messages[-1].content
-
-        # Convert previous messages to LangChain history format
         chat_history = []
         for msg in request.messages[:-1]:
             if msg.role == "user":
                 chat_history.append(HumanMessage(content=msg.content))
             elif msg.role == "assistant":
                 chat_history.append(AIMessage(content=msg.content))
-            # System messages are typically handled by our fixed prompt,
-            # but if SillyTavern sends a specific system prompt override,
-            # we *could* handle it, but for now we stick to the Hannibal Persona.
 
-        # 2. Invoke / Invoke Chain
-        # Note: We are currently NOT streaming.
-        # SillyTavern works fine without streaming if "Stream" is unchecked,
-        # or it waits for the full response.
+        # Diagnostic retrieval/logging
+        try:
+            docs = None
+            if vectorstore is not None:
+                try:
+                    docs = vectorstore.similarity_search(user_input, k=5)
+                except Exception:
+                    docs = None
+            if (
+                docs is None
+                and retriever is not None
+                and hasattr(retriever, "get_relevant_documents")
+            ):
+                method = getattr(retriever, "get_relevant_documents", None)
+                if callable(method):
+                    docs = method(user_input)
+            if docs:
+                logger.info(
+                    f"Diagnostic retrieval: returned {len(docs)} docs for query"
+                )
+                for i, d in enumerate(docs):
+                    logger.info(
+                        f"  [diag {i}] Episode: {d.metadata.get('episode','N/A')} | Source: {d.metadata.get('source','unknown')} | Scene: {d.metadata.get('scene_header','No Header')}"
+                    )
+                try:
+                    ctx_snip = " | ".join(
+                        f"{d.metadata.get('episode','N/A')}:{d.metadata.get('scene_header','No Header')}"
+                        for d in docs[:5]
+                    )
+                    logger.info(f"Diagnostic context snippet: {ctx_snip}")
+                except Exception:
+                    pass
+            else:
+                logger.warning("Diagnostic retrieval returned no docs or failed")
+        except Exception as e:
+            logger.warning(f"Diagnostic retrieval failed: {e}")
 
+        # Invoke the chain
         answer_text = rag_chain.invoke(
             {"input": user_input, "chat_history": chat_history},
             config=get_config(request),
         )
 
-        # 3. Return OpenAI-compatible JSON
+        logger.info(f"Model response (chat): {answer_text}")
+
         return {
             "id": f"chatcmpl-{int(time.time())}",
             "object": "chat.completion",
@@ -289,10 +337,65 @@ async def chat_completions(request: ChatCompletionRequest):
                 }
             ],
             "usage": {
-                "prompt_tokens": 0,  # Calculation requires token counter, skipping for speed
+                "prompt_tokens": 0,
                 "completion_tokens": 0,
                 "total_tokens": 0,
             },
+        }
+    except Exception as e:
+        logger.error(f"Error processing chat completions: {e}")
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.post("/v1/completions")
+async def completions(request: CompletionRequest):
+    global rag_chain
+    if not rag_chain:
+        raise HTTPException(status_code=500, detail="RAG Chain not initialized")
+
+    try:
+        # Diagnostic retrieval/logging
+        try:
+            docs = None
+            if vectorstore is not None:
+                try:
+                    docs = vectorstore.similarity_search(request.prompt, k=5)
+                except Exception:
+                    docs = None
+            if (
+                docs is None
+                and retriever is not None
+                and hasattr(retriever, "get_relevant_documents")
+            ):
+                method = getattr(retriever, "get_relevant_documents", None)
+                if callable(method):
+                    docs = method(request.prompt)
+            if docs:
+                logger.info(
+                    f"Diagnostic retrieval: returned {len(docs)} docs for prompt"
+                )
+                for i, d in enumerate(docs):
+                    logger.info(
+                        f"  [diag {i}] Episode: {d.metadata.get('episode','N/A')} | Source: {d.metadata.get('source','unknown')} | Scene: {d.metadata.get('scene_header','No Header')}"
+                    )
+            else:
+                logger.warning("Diagnostic retrieval returned no docs or failed")
+        except Exception as e:
+            logger.warning(f"Diagnostic retrieval failed: {e}")
+
+        answer_text = rag_chain.invoke(
+            {"input": request.prompt, "chat_history": []}, config=get_config(request)
+        )
+
+        logger.info(f"Model response (completion): {answer_text}")
+
+        return {
+            "id": f"cmpl-{int(time.time())}",
+            "object": "text_completion",
+            "created": int(time.time()),
+            "model": request.model,
+            "choices": [{"text": answer_text, "index": 0, "finish_reason": "stop"}],
+            "usage": {"prompt_tokens": 0, "completion_tokens": 0, "total_tokens": 0},
         }
     except Exception as e:
         logger.error(f"Error processing completions: {e}")
@@ -308,13 +411,35 @@ async def completions(request: CompletionRequest):
     try:
         # For legacy completions, we treat the entire prompt as the input
         # Note: This might include character cards/histories if ST is in Legacy mode
+        # For legacy completions we pass a RunnableConfig constructed from
+        # the request to allow configurable fields to apply.
+        # Diagnostic retrieval/logging similar to chat endpoint
+        docs = None
+        try:
+            if retriever:
+                method = getattr(retriever, "get_relevant_documents", None)
+                if callable(method):
+                    docs = method(request.prompt)
+                    if isinstance(docs, (list, tuple)):
+                        logger.info(
+                            f"Diagnostic retrieval: returned {len(docs)} docs for prompt"
+                        )
+                        for i, d in enumerate(docs):
+                            logger.info(
+                                f"  [diag {i}] Episode: {d.metadata.get('episode','N/A')} | Source: {d.metadata.get('source','unknown')} | Scene: {d.metadata.get('scene_header','No Header')}"
+                            )
+                    else:
+                        logger.warning(
+                            "Diagnostic retrieval returned non-sequence result; skipping detailed logging"
+                        )
+        except Exception as e:
+            logger.warning(f"Diagnostic retrieval failed: {e}")
+
         answer_text = rag_chain.invoke(
-            {
-                "input": request.prompt,
-                "chat_history": [],  # No easy way to parse history from a raw string prompt here
-            },
-            config=get_config(request),
+            {"input": request.prompt, "chat_history": []}, config=get_config(request)
         )
+
+        logger.info(f"Model response (completion): {answer_text}")
 
         return {
             "id": f"cmpl-{int(time.time())}",

@@ -1,29 +1,31 @@
-Checked 27 modules: 15 ok, 12 failed
+Checked 29 modules: 29 ok, 0 failed
 
 argparse	True	
 ast	True	
 collections	True	
 concurrent	True	
+contextlib	True	
 difflib	True	
-fastapi	False	No module named 'fastapi'
+fastapi	True	
 glob	True	
-google	False	No module named 'google'
+google	True	
 importlib	True	
 json	True	
-langchain	False	No module named 'langchain'
-langchain_community	False	No module named 'langchain_community'
-langchain_core	False	No module named 'langchain_core'
-langchain_google_genai	False	No module named 'langchain_google_genai'
+langchain_chroma	True	
+langchain_community	True	
+langchain_core	True	
+langchain_google_genai	True	
+logging	True	
 os	True	
-pdfplumber	False	No module named 'pdfplumber'
-pydantic	False	No module named 'pydantic'
-pypdf	False	No module named 'pypdf'
+pdfplumber	True	
+pydantic	True	
+pypdf	True	
 re	True	
 shutil	True	
 subprocess	True	
 sys	True	
 time	True	
-tqdm	False	No module named 'tqdm'
+tqdm	True	
 typing	True	
-uvicorn	False	No module named 'uvicorn'
-vertexai	False	No module named 'vertexai'
+uvicorn	True	
+vertexai	True	

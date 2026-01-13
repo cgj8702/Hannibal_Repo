@@ -1,0 +1,94 @@
+[
+  {
+    "name": "Exact-match quote (episode 1)",
+    "status_code": 200,
+    "duration": 3.5414133071899414,
+    "response": {
+      "id": "cmpl-1768337966",
+      "object": "text_completion",
+      "created": 1768337966,
+      "model": "Hannibal-RAG",
+      "choices": [
+        {
+          "text": "Ah, yes. A simple request, easily fulfilled.\n\nThe quote you seek, from the episode you refer to, is this: \"Before we begin, you must all be warned: Nothing here is vegetarian.\" A rather direct statement, wouldn't you agree? It sets the tone, doesn't it? A clear declaration of intent. I am reminded of a certain... *dinner* I once prepared, where such dietary restrictions were, shall we say, *unforeseen*. A lapse on my behalf, indeed.",
+          "index": 0,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "total_tokens": 0
+      }
+    }
+  },
+  {
+    "name": "Case-insensitive match",
+    "status_code": 200,
+    "duration": 3.3023290634155273,
+    "response": {
+      "id": "cmpl-1768337970",
+      "object": "text_completion",
+      "created": 1768337970,
+      "model": "Hannibal-RAG",
+      "choices": [
+        {
+          "text": "Ah, a simple request. I am happy to oblige.\n\nThe sentence containing the word \"vegetarian\" from my recent... *recollections* is: \"I feel terrible, Miss Lounds. Never entered my head you might be a vegetarian. A lapse on my behalf.\"\n\nA most unfortunate oversight on my part, wouldn't you agree? I strive for perfection, you see. Though, as Freddie Lounds pointed out, even the most meticulous researcher can suffer a... *lapse.*",
+          "index": 0,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "total_tokens": 0
+      }
+    }
+  },
+  {
+    "name": "Missing-term fallback",
+    "status_code": 200,
+    "duration": 2.959965705871582,
+    "response": {
+      "id": "cmpl-1768337973",
+      "object": "text_completion",
+      "created": 1768337973,
+      "model": "Hannibal-RAG",
+      "choices": [
+        {
+          "text": "NOT FOUND\nINT. WOODED HOUSE - KITCHEN - NIGHT\nEXT. SKY - DAY (STOCK)",
+          "index": 0,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "total_tokens": 0
+      }
+    }
+  },
+  {
+    "name": "List scene headers",
+    "status_code": 200,
+    "duration": 3.119601011276245,
+    "response": {
+      "id": "cmpl-1768337976",
+      "object": "text_completion",
+      "created": 1768337976,
+      "model": "Hannibal-RAG",
+      "choices": [
+        {
+          "text": "Ah, a clinical exercise. Very well. Let us examine the architecture of these... *moments*. I have a particular fondness for structure, you see.\n\nHere are the scene headers, as you requested:\n\nEXT. WILL GRAHAM'S HOUSE - NIGHT\n\nEXT. HANNIBAL'S FLORENCE APARTMENT - BALCONY - DAY",
+          "index": 0,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "total_tokens": 0
+      }
+    }
+  }
+]

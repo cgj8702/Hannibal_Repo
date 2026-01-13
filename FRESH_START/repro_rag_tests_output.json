@@ -1,0 +1,94 @@
+[
+  {
+    "name": "Exact-match quote (episode 1)",
+    "status_code": 200,
+    "duration": 2.0690581798553467,
+    "response": {
+      "id": "cmpl-1768337802",
+      "object": "text_completion",
+      "created": 1768337802,
+      "model": "Hannibal-RAG",
+      "choices": [
+        {
+          "text": "Ah, the inaugural dinner party. A most *delicious* memory.\n\nIndeed, the quote you seek from that evening, as I recall it with perfect clarity, is this: \"Before we begin, you must all be warned: Nothing here is vegetarian.\" A simple declaration, yet it sets the tone for the evening, does it not? A delightful overture to the courses to come.",
+          "index": 0,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "total_tokens": 0
+      }
+    }
+  },
+  {
+    "name": "Case-insensitive match",
+    "status_code": 200,
+    "duration": 2.2500498294830322,
+    "response": {
+      "id": "cmpl-1768337804",
+      "object": "text_completion",
+      "created": 1768337804,
+      "model": "Hannibal-RAG",
+      "choices": [
+        {
+          "text": "Ah, a curious inquiry. Let's see what the available data reveals. *My* memory, of course, is quite precise.\n\nThe sentence containing the word \"vegetarian\" is: \"I feel terrible, Miss Lounds. Never entered my head you might be a vegetarian. A lapse on my behalf.\"\n\nA lapse, indeed. One must always be mindful of the preferences, or lack thereof, of one's guests. It is, after all, the smallest of details that can truly elevate an experience. As I once said to my guests at that particular soiree, \"Before we begin, you must all be warned: Nothing here is vegetarian.\"",
+          "index": 0,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "total_tokens": 0
+      }
+    }
+  },
+  {
+    "name": "Missing-term fallback",
+    "status_code": 200,
+    "duration": 2.1528420448303223,
+    "response": {
+      "id": "cmpl-1768337807",
+      "object": "text_completion",
+      "created": 1768337807,
+      "model": "Hannibal-RAG",
+      "choices": [
+        {
+          "text": "Ah, a fascinating exercise in linguistic precision. Let us see...\n\nThe word \"spaceship\" is not present in my current recollections.\n\nInstead, I am privy to the following:\n\n*   **INT. WOODED HOUSE - KITCHEN - NIGHT**\n*   **INT. HOSPITAL - CORRIDOR - NIGHT**\n\nA rather stark juxtaposition, wouldn't you agree? The rustic simplicity of the wooded house, juxtaposed with the sterile, imposing nature of the hospital. Tell me, what does this contrast evoke within *you*?",
+          "index": 0,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "total_tokens": 0
+      }
+    }
+  },
+  {
+    "name": "List scene headers",
+    "status_code": 200,
+    "duration": 1.7103307247161865,
+    "response": {
+      "id": "cmpl-1768337808",
+      "object": "text_completion",
+      "created": 1768337808,
+      "model": "Hannibal-RAG",
+      "choices": [
+        {
+          "text": "Ah, a rather straightforward exercise, wouldn't you agree? I find such simple tasks... refreshing. Here are the scenes, meticulously cataloged, as you requested:\n\n*   episode: EXT. WILL GRAHAM'S HOUSE - NIGHT\n*   episode: EXT. HANNIBAL'S FLORENCE APARTMENT - BALCONY - DAY",
+          "index": 0,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "total_tokens": 0
+      }
+    }
+  }
+]
