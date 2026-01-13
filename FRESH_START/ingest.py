@@ -1,13 +1,18 @@
 import os
 import re
 import glob
-from langchain_community.vectorstores import Chroma
+from langchain_community.vectorstores import FAISS
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
 from langchain_core.documents import Document
 
+# Helper to extract episode identifier from filename (e.g., "CLEAN_Hannibal_1x01_Aperitif.txt" -> "1x01")
+def extract_episode_id(filename: str) -> str:
+    m = re.search(r"(\d+x\d+)", filename)
+    return m.group(1) if m else ""
+
 # --- CONFIGURATION ---
 CLEAN_SCRIPTS_DIR = "clean_scripts"
-CHROMA_DB_DIR = "chroma_db"
+FAISS_INDEX_DIR = "faiss_index"
 EMBEDDING_MODEL = "models/text-embedding-004" # Upgraded to newer model 
 
 def load_screenplays(directory):
@@ -39,6 +44,9 @@ def chunk_by_scene(text, filename):
     # Split text
     chunks = scene_pattern.split(text)
     
+    # Extract episode ID once for all chunks from this file
+    episode_id = extract_episode_id(filename)
+    
     documents = []
     for i, chunk in enumerate(chunks):
         if not chunk.strip():
@@ -52,7 +60,8 @@ def chunk_by_scene(text, filename):
             metadata={
                 "source": filename,
                 "chunk_index": i,
-                "scene_header": first_line[:100] # truncate for safety
+                "scene_header": first_line[:100],  # truncate for safety
+                "episode": episode_id  # Add episode for chronological sorting
             }
         )
         documents.append(doc)
@@ -83,23 +92,19 @@ def ingest_data():
         
     print(f"Total chunks created: {len(all_documents)}")
     
-    # 3. Create/Update Vector Store
-    print(f"Creating/Updating ChromaDB at '{CHROMA_DB_DIR}'...")
+    # 3. Create Vector Store
+    print(f"Creating FAISS index from {len(all_documents)} chunks...")
     embeddings = GoogleGenerativeAIEmbeddings(model=EMBEDDING_MODEL, google_api_key=api_key)
     
-    # Batch ingestion to avoid potential issues (optional, but good practice)
-    batch_size = 100
-    for i in range(0, len(all_documents), batch_size):
-        batch = all_documents[i:i+batch_size]
-        print(f"  Embedding batch {i} to {i+len(batch)}...")
-        Chroma.from_documents(
-            documents=batch,
-            embedding=embeddings,
-            persist_directory=CHROMA_DB_DIR
-        )
+    # Simple direct creation - FAISS handles the whole list well
+    vectorstore = FAISS.from_documents(all_documents, embeddings)
+    
+    # Save locally as requested
+    print(f"Saving FAISS index to '{FAISS_INDEX_DIR}'...")
+    vectorstore.save_local(FAISS_INDEX_DIR)
         
     print("--- Ingestion Complete! ---")
-    print(f"Database saved to: {os.path.abspath(CHROMA_DB_DIR)}")
+    print(f"Database saved to: {os.path.abspath(FAISS_INDEX_DIR)}")
 
 if __name__ == "__main__":
     ingest_data()
