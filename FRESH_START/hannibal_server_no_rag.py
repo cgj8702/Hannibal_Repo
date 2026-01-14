@@ -18,7 +18,7 @@ from langchain_core.messages import HumanMessage, AIMessage, SystemMessage
 
 
 # --- CONFIGURATION ---
-LLM_MODEL = "gemini-2.5-flash-lite"
+LLM_MODEL = "gemini-2.0-flash-lite-001"
 PORT = 8002
 
 # Configure logging
