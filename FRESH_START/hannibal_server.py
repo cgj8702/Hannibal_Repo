@@ -117,7 +117,7 @@ class CompletionRequest(BaseModel):
     model: str = "Hannibal-RAG"
     prompt: str
     stream: Optional[bool] = False
-    temperature: Optional[float] = 0.7
+    temperature: Optional[float] = None
     max_tokens: Optional[int] = None
     top_p: Optional[float] = None
     top_k: Optional[int] = None
