@@ -8,8 +8,7 @@ import logging
 from contextlib import asynccontextmanager
 from langchain_community.vectorstores import FAISS
 import re
-from langchain_google_genai import GoogleGenerativeAIEmbeddings
-from langchain_google_vertexai import ChatVertexAI, HarmCategory, HarmBlockThreshold
+from langchain_google_genai import GoogleGenerativeAIEmbeddings, ChatGoogleGenerativeAI, HarmCategory, HarmBlockThreshold
 from langchain_core.runnables import (
     RunnablePassthrough,
     ConfigurableField,
@@ -159,8 +158,9 @@ def setup_rag_chain():
 
     # Construct LLM runnable. Authentication is handled via environment vars,
     # so do not pass `google_api_key` here (not a valid ctor arg).
-    llm = ChatVertexAI(
-        model_name=LLM_MODEL,
+    llm = ChatGoogleGenerativeAI(
+        model=LLM_MODEL,
+        vertexai=True,
         project=PROJECT_ID,
         location=LOCATION,
         safety_settings={

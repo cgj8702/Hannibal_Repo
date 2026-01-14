@@ -13,4 +13,3 @@ faiss-cpu
 fastapi
 uvicorn
 pydantic
-langchain-google-vertexai

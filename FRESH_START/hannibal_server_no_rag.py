@@ -6,7 +6,7 @@ import os
 import time
 import logging
 from contextlib import asynccontextmanager
-from langchain_google_vertexai import ChatVertexAI, HarmCategory, HarmBlockThreshold
+from langchain_google_genai import ChatGoogleGenerativeAI, HarmCategory, HarmBlockThreshold
 from langchain_core.runnables import (
     ConfigurableField,
     ensure_config,
@@ -107,8 +107,9 @@ def setup_chain():
         logger.error("CRITICAL ERROR: GOOGLE_API_KEY not set.")
         return None
 
-    llm = ChatVertexAI(
-        model_name=LLM_MODEL,
+    llm = ChatGoogleGenerativeAI(
+        model=LLM_MODEL,
+        vertexai=True,
         project=PROJECT_ID,
         location=LOCATION,
         safety_settings={
