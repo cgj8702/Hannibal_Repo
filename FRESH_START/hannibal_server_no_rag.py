@@ -6,7 +6,7 @@ import os
 import time
 import logging
 from contextlib import asynccontextmanager
-from langchain_google_genai import ChatGoogleGenerativeAI
+from langchain_google_genai import ChatGoogleGenerativeAI, HarmCategory, HarmBlockThreshold
 from langchain_core.runnables import (
     ConfigurableField,
     ensure_config,
@@ -105,7 +105,16 @@ def setup_chain():
         logger.error("CRITICAL ERROR: GOOGLE_API_KEY not set.")
         return None
 
-    llm = ChatGoogleGenerativeAI(model=LLM_MODEL).configurable_fields(
+    llm = ChatGoogleGenerativeAI(
+        model=LLM_MODEL,
+        safety_settings=[
+            {"category": "HARM_CATEGORY_HARASSMENT", "threshold": "BLOCK_NONE"},
+            {"category": "HARM_CATEGORY_HATE_SPEECH", "threshold": "BLOCK_NONE"},
+            {"category": "HARM_CATEGORY_SEXUALLY_EXPLICIT", "threshold": "BLOCK_NONE"},
+            {"category": "HARM_CATEGORY_DANGEROUS_CONTENT", "threshold": "BLOCK_NONE"},
+            {"category": "HARM_CATEGORY_CIVIC_INTEGRITY", "threshold": "BLOCK_NONE"},
+        ],
+    ).configurable_fields(
         temperature=ConfigurableField(id="temperature"),
         top_p=ConfigurableField(id="top_p"),
         top_k=ConfigurableField(id="top_k"),
