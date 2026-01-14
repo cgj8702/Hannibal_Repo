@@ -44,7 +44,7 @@ def filter_and_format(docs, query):
 # --- CONFIGURATION ---
 FAISS_INDEX_DIR = "faiss_index"
 EMBEDDING_MODEL = "models/text-embedding-004"
-LLM_MODEL = "gemini-2.0-flash-lite-001"  # User preference
+LLM_MODEL = "gemini-1.5-flash"  # User preference: Maximum cost efficiency
 PORT = 8001
 
 # Configure logging
