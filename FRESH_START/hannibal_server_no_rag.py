@@ -6,7 +6,7 @@ import os
 import time
 import logging
 from contextlib import asynccontextmanager
-from langchain_google_genai import ChatGoogleGenerativeAI, HarmCategory, HarmBlockThreshold
+from langchain_google_vertexai import ChatVertexAI, HarmCategory, HarmBlockThreshold
 from langchain_core.runnables import (
     ConfigurableField,
     ensure_config,
@@ -18,7 +18,9 @@ from langchain_core.messages import HumanMessage, AIMessage, SystemMessage
 
 
 # --- CONFIGURATION ---
-LLM_MODEL = "gemini-2.0-flash-lite-001"
+LLM_MODEL = "gemini-2.5-flash-lite"
+PROJECT_ID = os.environ.get("GOOGLE_CLOUD_PROJECT", "gen-lang-client-0813719350")
+LOCATION = os.environ.get("GOOGLE_CLOUD_LOCATION", "us-central1")
 PORT = 8002
 
 # Configure logging
@@ -105,14 +107,15 @@ def setup_chain():
         logger.error("CRITICAL ERROR: GOOGLE_API_KEY not set.")
         return None
 
-    llm = ChatGoogleGenerativeAI(
-        model=LLM_MODEL,
+    llm = ChatVertexAI(
+        model_name=LLM_MODEL,
+        project=PROJECT_ID,
+        location=LOCATION,
         safety_settings={
-            HarmCategory.HARM_CATEGORY_HARASSMENT: HarmBlockThreshold.BLOCK_NONE,
-            HarmCategory.HARM_CATEGORY_HATE_SPEECH: HarmBlockThreshold.BLOCK_NONE,
-            HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: HarmBlockThreshold.BLOCK_NONE,
-            HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: HarmBlockThreshold.BLOCK_NONE,
-            HarmCategory.HARM_CATEGORY_CIVIC_INTEGRITY: HarmBlockThreshold.BLOCK_NONE,
+            HarmCategory.HARM_CATEGORY_HARASSMENT: HarmBlockThreshold.OFF,
+            HarmCategory.HARM_CATEGORY_HATE_SPEECH: HarmBlockThreshold.OFF,
+            HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: HarmBlockThreshold.OFF,
+            HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: HarmBlockThreshold.OFF,
         },
     ).configurable_fields(
         temperature=ConfigurableField(id="temperature"),

@@ -8,7 +8,8 @@ import logging
 from contextlib import asynccontextmanager
 from langchain_community.vectorstores import FAISS
 import re
-from langchain_google_genai import GoogleGenerativeAIEmbeddings, ChatGoogleGenerativeAI, HarmCategory, HarmBlockThreshold
+from langchain_google_genai import GoogleGenerativeAIEmbeddings
+from langchain_google_vertexai import ChatVertexAI, HarmCategory, HarmBlockThreshold
 from langchain_core.runnables import (
     RunnablePassthrough,
     ConfigurableField,
@@ -44,7 +45,9 @@ def filter_and_format(docs, query):
 # --- CONFIGURATION ---
 FAISS_INDEX_DIR = "faiss_index"
 EMBEDDING_MODEL = "models/text-embedding-004"
-LLM_MODEL = "gemini-2.0-flash-lite-001"  # Reverting to original working version
+LLM_MODEL = "gemini-2.5-flash-lite"
+PROJECT_ID = os.environ.get("GOOGLE_CLOUD_PROJECT", "gen-lang-client-0813719350")
+LOCATION = os.environ.get("GOOGLE_CLOUD_LOCATION", "us-central1")
 PORT = 8001
 
 # Configure logging
@@ -156,14 +159,15 @@ def setup_rag_chain():
 
     # Construct LLM runnable. Authentication is handled via environment vars,
     # so do not pass `google_api_key` here (not a valid ctor arg).
-    llm = ChatGoogleGenerativeAI(
-        model=LLM_MODEL,
+    llm = ChatVertexAI(
+        model_name=LLM_MODEL,
+        project=PROJECT_ID,
+        location=LOCATION,
         safety_settings={
-            HarmCategory.HARM_CATEGORY_HARASSMENT: HarmBlockThreshold.BLOCK_NONE,
-            HarmCategory.HARM_CATEGORY_HATE_SPEECH: HarmBlockThreshold.BLOCK_NONE,
-            HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: HarmBlockThreshold.BLOCK_NONE,
-            HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: HarmBlockThreshold.BLOCK_NONE,
-            HarmCategory.HARM_CATEGORY_CIVIC_INTEGRITY: HarmBlockThreshold.BLOCK_NONE,
+            HarmCategory.HARM_CATEGORY_HARASSMENT: HarmBlockThreshold.OFF,
+            HarmCategory.HARM_CATEGORY_HATE_SPEECH: HarmBlockThreshold.OFF,
+            HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: HarmBlockThreshold.OFF,
+            HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: HarmBlockThreshold.OFF,
         },
     ).configurable_fields(
         temperature=ConfigurableField(id="temperature"),
