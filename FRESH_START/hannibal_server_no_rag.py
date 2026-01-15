@@ -1,4 +1,6 @@
 from fastapi import FastAPI, HTTPException, Request
+from fastapi.responses import StreamingResponse
+import json
 from pydantic import BaseModel, Field
 from typing import List, Optional, Dict, Any, Union
 import uvicorn
@@ -200,6 +202,37 @@ async def chat_completions(request: ChatCompletionRequest):
             elif msg.role == "system":
                 chat_history.append(SystemMessage(content=msg.content))
 
+        if request.stream:
+            async def stream_generator():
+                try:
+                    # Use astream for async streaming
+                    async for chunk in llm_chain.astream(
+                        {"input": user_input, "chat_history": chat_history},
+                        config=get_config(request),
+                    ):
+                        # Chunk is already a string because of StrOutputParser
+                        data = {
+                            "id": f"chatcmpl-{int(time.time())}",
+                            "object": "chat.completion.chunk",
+                            "created": int(time.time()),
+                            "model": request.model,
+                            "choices": [
+                                {
+                                    "index": 0,
+                                    "delta": {"content": chunk},
+                                    "finish_reason": None,
+                                }
+                            ],
+                        }
+                        yield f"data: {json.dumps(data)}\n\n"
+                    yield "data: [DONE]\n\n"
+                except Exception as stream_e:
+                    logger.error(f"Streaming error: {stream_e}")
+                    yield f"data: {json.dumps({'error': str(stream_e)})}\n\n"
+                    yield "data: [DONE]\n\n"
+
+            return StreamingResponse(stream_generator(), media_type="text/event-stream")
+
         answer_text = llm_chain.invoke(
             {"input": user_input, "chat_history": chat_history},
             config=get_config(request),
@@ -237,6 +270,29 @@ async def completions(request: CompletionRequest):
         raise HTTPException(status_code=500, detail="Chain not initialized")
 
     try:
+        if request.stream:
+            async def stream_generator():
+                try:
+                    async for chunk in llm_chain.astream(
+                        {"input": request.prompt, "chat_history": []},
+                        config=get_config(request),
+                    ):
+                        data = {
+                            "id": f"cmpl-{int(time.time())}",
+                            "object": "text_completion",
+                            "created": int(time.time()),
+                            "model": request.model,
+                            "choices": [{"text": chunk, "index": 0, "finish_reason": None}],
+                        }
+                        yield f"data: {json.dumps(data)}\n\n"
+                    yield "data: [DONE]\n\n"
+                except Exception as stream_e:
+                    logger.error(f"Streaming error: {stream_e}")
+                    yield f"data: {json.dumps({'error': str(stream_e)})}\n\n"
+                    yield "data: [DONE]\n\n"
+
+            return StreamingResponse(stream_generator(), media_type="text/event-stream")
+
         answer_text = llm_chain.invoke(
             {"input": request.prompt, "chat_history": []}, config=get_config(request)
         )

@@ -1,4 +1,6 @@
 from fastapi import FastAPI, HTTPException, Request
+from fastapi.responses import StreamingResponse
+import json
 from pydantic import BaseModel, Field
 from typing import List, Optional, Dict, Any, Union
 import uvicorn
@@ -312,6 +314,36 @@ async def chat_completions(request: ChatCompletionRequest):
             logger.warning(f"Diagnostic retrieval failed: {e}")
 
         # Invoke the chain
+        if request.stream:
+            async def stream_generator():
+                try:
+                    # astream works through the whole chain including retrieval
+                    async for chunk in rag_chain.astream(
+                        {"input": user_input, "chat_history": chat_history},
+                        config=get_config(request),
+                    ):
+                        data = {
+                            "id": f"chatcmpl-{int(time.time())}",
+                            "object": "chat.completion.chunk",
+                            "created": int(time.time()),
+                            "model": request.model,
+                            "choices": [
+                                {
+                                    "index": 0,
+                                    "delta": {"content": chunk},
+                                    "finish_reason": None,
+                                }
+                            ],
+                        }
+                        yield f"data: {json.dumps(data)}\n\n"
+                    yield "data: [DONE]\n\n"
+                except Exception as stream_e:
+                    logger.error(f"Streaming error: {stream_e}")
+                    yield f"data: {json.dumps({'error': str(stream_e)})}\n\n"
+                    yield "data: [DONE]\n\n"
+
+            return StreamingResponse(stream_generator(), media_type="text/event-stream")
+
         answer_text = rag_chain.invoke(
             {"input": user_input, "chat_history": chat_history},
             config=get_config(request),
@@ -378,57 +410,28 @@ async def completions(request: CompletionRequest):
         except Exception as e:
             logger.warning(f"Diagnostic retrieval failed: {e}")
 
-        answer_text = rag_chain.invoke(
-            {"input": request.prompt, "chat_history": []}, config=get_config(request)
-        )
+        if request.stream:
+            async def stream_generator():
+                try:
+                    async for chunk in rag_chain.astream(
+                        {"input": request.prompt, "chat_history": []},
+                        config=get_config(request),
+                    ):
+                        data = {
+                            "id": f"cmpl-{int(time.time())}",
+                            "object": "text_completion",
+                            "created": int(time.time()),
+                            "model": request.model,
+                            "choices": [{"text": chunk, "index": 0, "finish_reason": None}],
+                        }
+                        yield f"data: {json.dumps(data)}\n\n"
+                    yield "data: [DONE]\n\n"
+                except Exception as stream_e:
+                    logger.error(f"Streaming error: {stream_e}")
+                    yield f"data: {json.dumps({'error': str(stream_e)})}\n\n"
+                    yield "data: [DONE]\n\n"
 
-        logger.info(f"Model response (completion): {answer_text}")
-
-        return {
-            "id": f"cmpl-{int(time.time())}",
-            "object": "text_completion",
-            "created": int(time.time()),
-            "model": request.model,
-            "choices": [{"text": answer_text, "index": 0, "finish_reason": "stop"}],
-            "usage": {"prompt_tokens": 0, "completion_tokens": 0, "total_tokens": 0},
-        }
-    except Exception as e:
-        logger.error(f"Error processing completions: {e}")
-        raise HTTPException(status_code=500, detail=str(e))
-
-
-@app.post("/v1/completions")
-async def completions(request: CompletionRequest):
-    global rag_chain
-    if not rag_chain:
-        raise HTTPException(status_code=500, detail="RAG Chain not initialized")
-
-    try:
-        # For legacy completions, we treat the entire prompt as the input
-        # Note: This might include character cards/histories if ST is in Legacy mode
-        # For legacy completions we pass a RunnableConfig constructed from
-        # the request to allow configurable fields to apply.
-        # Diagnostic retrieval/logging similar to chat endpoint
-        docs = None
-        try:
-            if retriever:
-                method = getattr(retriever, "get_relevant_documents", None)
-                if callable(method):
-                    docs = method(request.prompt)
-                    if isinstance(docs, (list, tuple)):
-                        logger.info(
-                            f"Diagnostic retrieval: returned {len(docs)} docs for prompt"
-                        )
-                        for i, d in enumerate(docs):
-                            logger.info(
-                                f"  [diag {i}] Episode: {d.metadata.get('episode','N/A')} | Source: {d.metadata.get('source','unknown')} | Scene: {d.metadata.get('scene_header','No Header')}"
-                            )
-                    else:
-                        logger.warning(
-                            "Diagnostic retrieval returned non-sequence result; skipping detailed logging"
-                        )
-        except Exception as e:
-            logger.warning(f"Diagnostic retrieval failed: {e}")
+            return StreamingResponse(stream_generator(), media_type="text/event-stream")
 
         answer_text = rag_chain.invoke(
             {"input": request.prompt, "chat_history": []}, config=get_config(request)
