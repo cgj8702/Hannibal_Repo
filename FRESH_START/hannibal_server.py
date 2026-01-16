@@ -198,9 +198,10 @@ def setup_rag_chain():
         stop=ConfigurableField(id="stop"),
     )
 
-    # Simplified Chat Template
+    # Updated Chat Template: Restored dynamic context injection
     prompt = ChatPromptTemplate.from_messages(
         [
+            ("system", "Context from knowledge base:\n\n{context}"),
             MessagesPlaceholder(variable_name="chat_history"),
             ("human", "{input}"),
         ]
@@ -223,8 +224,6 @@ def setup_rag_chain():
         | base_llm
         | StrOutputParser()
     )
-
-    return rag_chain
 
     return rag_chain
 
