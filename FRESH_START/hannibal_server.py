@@ -76,6 +76,10 @@ PORT = 8001
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger("hannibal_server")
 
+# Silence noisy third-party loggers
+logging.getLogger("faiss.loader").setLevel(logging.WARNING)
+logging.getLogger("google_genai._api_client").setLevel(logging.WARNING)
+
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
