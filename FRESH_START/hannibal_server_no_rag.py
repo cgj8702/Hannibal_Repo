@@ -124,7 +124,7 @@ def setup_chain():
         vertexai=True,
         project=PROJECT_ID,
         location=LOCATION,
-        system_instruction=no_refusal_directive, # Optimized for performance
+        model_kwargs={"system_instruction": no_refusal_directive}, # Optimized & silenced
         safety_settings={
             HarmCategory.HARM_CATEGORY_HARASSMENT: HarmBlockThreshold.OFF,
             HarmCategory.HARM_CATEGORY_HATE_SPEECH: HarmBlockThreshold.OFF,

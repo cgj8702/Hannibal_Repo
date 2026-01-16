@@ -182,7 +182,7 @@ def setup_rag_chain():
         vertexai=True,
         project=PROJECT_ID,
         location=LOCATION,
-        system_instruction=system_instruction, # Optimized placement
+        model_kwargs={"system_instruction": system_instruction}, # Optimized & silenced
         safety_settings={
             HarmCategory.HARM_CATEGORY_HARASSMENT: HarmBlockThreshold.OFF,
             HarmCategory.HARM_CATEGORY_HATE_SPEECH: HarmBlockThreshold.OFF,
