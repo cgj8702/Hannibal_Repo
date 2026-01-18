@@ -7,6 +7,7 @@ import uvicorn
 import os
 import time
 import logging
+import asyncio
 from contextlib import asynccontextmanager
 from langchain_community.vectorstores import FAISS
 import re
@@ -40,18 +41,19 @@ def filter_and_format(docs, query):
     
     context_log = f"Context: { ' | '.join(log_entries) if log_entries else 'None Found' }"
     logger.info(context_log)
-    print(f"\n>>> {context_log}\n") 
     return "\n\n".join(doc.page_content for doc in docs)
 
 
-def perform_retrieval(query: str):
+async def perform_retrieval(query: str):
     global retriever
     if not retriever:
         logger.warning("Retriever not initialized, skipping RAG.")
         return ""
     try:
         search_query = query[-500:] if len(query) > 500 else query
-        docs = retriever.invoke(search_query)
+        loop = asyncio.get_running_loop()
+        # Offload sync FAISS search to thread pool
+        docs = await loop.run_in_executor(None, retriever.invoke, search_query)
         return filter_and_format(docs, search_query)
     except Exception as e:
         logger.error(f"Retrieval error: {e}")
@@ -212,12 +214,14 @@ def setup_rag_chain():
         ]
     )
 
-    def get_context(x):
+    async def get_context(x):
         try:
             query = x.get("rag_query", "")
             if not query: 
                 return ""
-            docs = retriever_local.invoke(query)
+            loop = asyncio.get_running_loop()
+            # Offload retrieval
+            docs = await loop.run_in_executor(None, retriever_local.invoke, query)
             return filter_and_format(docs, query)
         except Exception as e:
             logger.error(f"Retrieval error: {e}")
@@ -308,9 +312,9 @@ async def chat_completions(request: ChatCompletionRequest):
                         # If it's a dict like {"url": "base64..."}, flatten it to just the string
                         if isinstance(img_val, dict) and "url" in img_val:
                             new_part["image_url"] = img_val["url"]
-                            print(">>> 👁️ IMAGE DETECTED (Flattened) 👁️ <<<")
+                            logger.info(">>> 👁️ IMAGE DETECTED (Flattened) 👁️ <<<")
                         elif isinstance(img_val, str):
-                             print(">>> 👁️ IMAGE DETECTED (String) 👁️ <<<")
+                             logger.info(">>> 👁️ IMAGE DETECTED (String) 👁️ <<<")
                     
                     normalized_list.append(new_part)
             final_content_for_llm = normalized_list
@@ -370,7 +374,7 @@ async def chat_completions(request: ChatCompletionRequest):
 
             return StreamingResponse(stream_generator(), media_type="text/event-stream")
 
-        answer_text = rag_chain.invoke(
+        answer_text = await rag_chain.ainvoke(
             inputs,
             config=get_config(request),
         )
@@ -405,7 +409,7 @@ async def completions(request: CompletionRequest):
     # Legacy endpoint (text only)
     global rag_chain, base_llm, no_refusal_directive
     try:
-        context = perform_retrieval(request.prompt)
+        context = await perform_retrieval(request.prompt)
         instruct_prefix = f"### KNOWLEDGE BASE CONTEXT (PRIORITIZE THIS):\n{context}\n\n" if context else ""
         full_prompt = f"{instruct_prefix}{no_refusal_directive}\n\n{request.prompt}"
         
@@ -423,7 +427,7 @@ async def completions(request: CompletionRequest):
                     yield "data: [DONE]\n\n"
             return StreamingResponse(stream_generator(), media_type="text/event-stream")
 
-        res = base_llm.invoke(full_prompt, config=config)
+        res = await base_llm.ainvoke(full_prompt, config=config)
         answer_text = res.content if hasattr(res, "content") else str(res)
         return {"id": f"cmpl-{int(time.time())}", "object": "text_completion", "created": int(time.time()), "model": request.model, "choices": [{"text": answer_text, "index": 0, "finish_reason": "stop"}], "usage": {"prompt_tokens": 0, "completion_tokens": 0, "total_tokens": 0}}
     except Exception as e:
