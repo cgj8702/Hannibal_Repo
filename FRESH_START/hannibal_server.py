@@ -63,7 +63,7 @@ async def perform_retrieval(query: str):
 # --- CONFIGURATION ---
 FAISS_INDEX_DIR = "faiss_index"
 EMBEDDING_MODEL = "models/text-embedding-004"
-LLM_MODEL = "gemini-2.0-flash-001"
+LLM_MODEL = "gemini-2.5-pro"
 PROJECT_ID = os.environ.get("GOOGLE_CLOUD_PROJECT", "gen-lang-client-0813719350")
 LOCATION = os.environ.get("GOOGLE_CLOUD_LOCATION", "us-central1")
 PORT = 8001
